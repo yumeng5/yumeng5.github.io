@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student @ UIUC"
   location         : "Champaign, IL"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=mzRRX3QAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
