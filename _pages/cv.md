@@ -18,7 +18,7 @@ Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2019
 International Conference on Very Large Data Bases (**VLDB**), 2019 _(Tutorial)_
 
 * TopicMine: User-Guided Topic Mining by Category-Oriented Embedding \[[PDF](https://www.kdd.org/kdd2019/docs/KDD2019_Showcase_2074.pdf)\]  
-**Yu Meng**, Jiaxin Huang, Zihan Wang, Chenyu Fan, Guangyuan Wang, Chao Zhang, Jingbo Shang, Lance Kaplan, Jiawei Han.  
+**Yu Meng**\*, Jiaxin Huang\*, Zihan Wang, Chenyu Fan, Guangyuan Wang, Chao Zhang, Jingbo Shang, Lance Kaplan, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Pattern Mining (**KDD**), 2019 _(Demo Paper)_
 
 * HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories  
