@@ -13,7 +13,7 @@ redirect_from:
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Chao Zhang, Honglei Zhuang, Lance Kaplan, Jiawei Han.  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2019
 
-* TextCube: Automated Construction and Multidimensional Exploration \[[PDF](http://www.vldb.org/pvldb/vol12/p1974-meng.pdf)\]  
+* TextCube: Automated Construction and Multidimensional Exploration \[[PDF](https://www.dropbox.com/s/gbqd83zocy2szph/VLDB%2719%20tutorial.pdf?dl=1)\]\[[Abstract](http://www.vldb.org/pvldb/vol12/p1974-meng.pdf)\]  
 **Yu Meng**, Jiaxin Huang, Jingbo Shang, and Jiawei Han.  
 International Conference on Very Large Data Bases (**VLDB**), 2019 (_Tutorial_)
 
