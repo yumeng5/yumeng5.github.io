@@ -21,7 +21,7 @@ International Conference on Very Large Data Bases (**VLDB**), 2019 _(Tutorial)_
 **Yu Meng**\*, Jiaxin Huang\*, Zihan Wang, Chenyu Fan, Guangyuan Wang, Chao Zhang, Jingbo Shang, Lance Kaplan, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2019 _(Demo Paper)_
 
-* HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories  
+* HiGitClass: Keyword-Driven Hierarchical Classification of GitHub Repositories \[[Code](https://github.com/yuzhimanhua/HiGitClass)\]  
 Yu Zhang, Frank F. Xu, Sha Li, **Yu Meng**, Xuan Wang, Qi Li, and Jiawei Han.  
 IEEE International Conference on Data Mining (**ICDM**), 2019
 
