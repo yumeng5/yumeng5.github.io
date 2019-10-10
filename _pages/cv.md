@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+* Separate and Attend in Personal Email Search  
+**Yu Meng**, Maryam Karimzadehgan, Honglei Zhuang and Donald Metzler.  
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
+
 * Spherical Text Embedding  
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Chao Zhang, Honglei Zhuang, Lance Kaplan, Jiawei Han.  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2019
