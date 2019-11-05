@@ -24,6 +24,8 @@ News
 
 * \[**2019.06**\] Our demo system on [Topic Mining](https://www.kdd.org/kdd2019/docs/KDD2019_Showcase_2074.pdf) has been accepted by **KDD 2019**!
 
+* \[**2019.05**\] I will work as a research intern at [Google AI](https://ai.google/) this summer!
+
 Education
 ======
 * Ph.D. (Current) in Computer Science, University of Illinois at Urbana-Champaign  
