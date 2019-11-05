@@ -13,7 +13,7 @@ redirect_from:
 **Yu Meng**, Maryam Karimzadehgan, Honglei Zhuang, Donald Metzler.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
 
-* Spherical Text Embedding \[[Slides](/files/Spherical-Text-Embedding.pdf)\] \[[Code](https://github.com/yumeng5/Spherical-Text-Embedding)\]  
+* Spherical Text Embedding \[[PDF](https://arxiv.org/abs/1911.01196)\] \[[Slides](/files/Spherical-Text-Embedding.pdf)\] \[[Code](https://github.com/yumeng5/Spherical-Text-Embedding)\]  
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Chao Zhang, Honglei Zhuang, Lance Kaplan, Jiawei Han.  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2019
 
