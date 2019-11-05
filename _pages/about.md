@@ -12,6 +12,18 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 I am especially passionate about developing unsupervised and weakly-supervised (i.e., requires minimal human supervision) text mining techniques. As such, my works lie at the intersection of data mining, natural language processing and applied machine learning. In the long run, my research is dedicated to mining structured knowledge from large-scale text data in label-efficient ways. 
 
+News
+======
+* \[**2019.10**\] My summer intern work at Google has been accepted by **WSDM 2020**!
+
+* \[**2019.09**\] My work on [Spherical Text Embedding](https://arxiv.org/abs/1911.01196) has been accepted by **NeurIPS 2019**!
+
+* \[**2019.08**\] Delivered a tutorial on [TextCube](http://www.vldb.org/pvldb/vol12/p1974-meng.pdf) at **VLDB 2019**!
+
+* \[**2019.08**\] One paper on [GitHub Repo Classification](https://arxiv.org/abs/1910.07115) has been accepted by **ICDM 2019**!
+
+* \[**2019.06**\] Our demo system on [Topic Mining](https://www.kdd.org/kdd2019/docs/KDD2019_Showcase_2074.pdf) has been accepted by **KDD 2019**!
+
 Education
 ======
 * Ph.D. (Current) in Computer Science, University of Illinois at Urbana-Champaign  
