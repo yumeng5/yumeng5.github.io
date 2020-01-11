@@ -14,6 +14,8 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
+* \[**2020.01**\] Two papers have been accepted by **WWW 2020**!
+
 * \[**2019.10**\] My summer intern work at Google has been accepted by **WSDM 2020**!
 
 * \[**2019.09**\] My work on [Spherical Text Embedding](https://arxiv.org/abs/1911.01196) has been accepted by **NeurIPS 2019**!
@@ -23,8 +25,6 @@ News
 * \[**2019.08**\] One paper on [GitHub Repo Classification](https://arxiv.org/abs/1910.07115) has been accepted by **ICDM 2019**!
 
 * \[**2019.06**\] Our demo system on [Topic Mining](https://www.kdd.org/kdd2019/docs/KDD2019_Showcase_2074.pdf) has been accepted by **KDD 2019**!
-
-* \[**2019.05**\] I will work as a research intern at [Google AI](https://ai.google/) this summer!
 
 Education
 ======
@@ -39,6 +39,6 @@ Advisor: Prof. [Sayan Mitra](http://mitras.ece.illinois.edu/), Graduated with Hi
 
 Contact
 ======
-* Email: yumeng5\[at\]illinois.edu
+* Email: yumeng5\[at\]illinois\[dot\]edu
 
 * Office: Room 1113, Thomas M. Siebel Center, 201 N. Goodwin Avenue, Urbana, IL 61801
