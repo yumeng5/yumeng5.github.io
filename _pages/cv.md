@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+* Discriminative Topic Mining via Category-Name Guided Text Embedding  
+**Yu Meng**\*, Jiaxin Huang\*, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han.  
+The Web Conference (**WWW**), 2020
+
+* Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion  
+Jiaxin Huang, Yiqing Xie, **Yu Meng**, Jiaming Shen, Yunyi Zhang, Jiawei Han.  
+The Web Conference (**WWW**), 2020
+
 * Separate and Attend in Personal Email Search \[[PDF](https://arxiv.org/abs/1911.09732)\] \[[Google AI Page](https://ai.google/research/pubs/pub48688)\]  
 **Yu Meng**, Maryam Karimzadehgan, Honglei Zhuang, Donald Metzler.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
