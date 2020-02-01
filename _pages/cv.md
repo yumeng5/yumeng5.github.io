@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-* Discriminative Topic Mining via Category-Name Guided Text Embedding  
+* Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\]  
 **Yu Meng**\*, Jiaxin Huang\*, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2020
 
-* Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion  
+* Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion \[[PDF](https://arxiv.org/abs/2001.10106)\]  
 Jiaxin Huang, Yiqing Xie, **Yu Meng**, Jiaming Shen, Yunyi Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2020
 
