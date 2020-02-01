@@ -14,9 +14,9 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
-* \[**2020.01**\] Two papers have been accepted by **WWW 2020**!
+* \[**2020.01**\] Two papers on [Topic Mining](https://arxiv.org/abs/1908.07162) and [Set Expansion](https://arxiv.org/abs/2001.10106) have been accepted by **WWW 2020**!
 
-* \[**2019.10**\] My summer intern work at Google has been accepted by **WSDM 2020**!
+* \[**2019.10**\] My summer intern work at Google on [Email Search](https://arxiv.org/abs/1911.09732) has been accepted by **WSDM 2020**!
 
 * \[**2019.09**\] My work on [Spherical Text Embedding](https://arxiv.org/abs/1911.01196) has been accepted by **NeurIPS 2019**!
 
