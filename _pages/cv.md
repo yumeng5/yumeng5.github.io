@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+* Unsupervised Word Embedding Learning by Incorporating Local and Global Contexts \[[PDF](https://www.frontiersin.org/articles/10.3389/fdata.2020.00009/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=517899)\]  
+**Yu Meng**, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Jiawei Han.  
+Frontiers in Big Data, 2020
+
 * Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\]  
 **Yu Meng**\*, Jiaxin Huang\*, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2020
