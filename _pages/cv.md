@@ -13,11 +13,11 @@ redirect_from:
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Jiawei Han.  
 Frontiers in Big Data, 2020
 
-* Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\]  
+* Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\] \[[Code](https://github.com/yumeng5/CatE)\]    
 **Yu Meng**\*, Jiaxin Huang\*, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2020
 
-* Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion \[[PDF](https://arxiv.org/abs/2001.10106)\]  
+* Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion \[[PDF](https://arxiv.org/abs/2001.10106)\] \[[Code](https://github.com/teapot123/SetCoExpan)\]  
 Jiaxin Huang, Yiqing Xie, **Yu Meng**, Jiaming Shen, Yunyi Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2020
 
