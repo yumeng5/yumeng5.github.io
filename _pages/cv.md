@@ -13,7 +13,7 @@ redirect_from:
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Jiawei Han.  
 Frontiers in Big Data, 2020
 
-* Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\] \[[Code](https://github.com/yumeng5/CatE)\]    
+* Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\] \[[Video](https://drive.google.com/file/d/1uMYkikTDHeupTCG5ZIlsfo6cr6F_05KU/view?usp=sharing)\] \[[Code](https://github.com/yumeng5/CatE)\]    
 **Yu Meng**\*, Jiaxin Huang\*, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2020
 
