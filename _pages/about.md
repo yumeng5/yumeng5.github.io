@@ -14,6 +14,9 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
+
+* \[**2020.04**\] One paper on Text Classification with Meta Data has been accepted by **SIGIR 2020**!
+
 * \[**2020.01**\] Two papers on [Topic Mining](https://arxiv.org/abs/1908.07162) and [Set Expansion](https://arxiv.org/abs/2001.10106) have been accepted by **WWW 2020**!
 
 * \[**2019.10**\] My summer intern work at Google on [Email Search](https://arxiv.org/abs/1911.09732) has been accepted by **WSDM 2020**!
@@ -23,8 +26,6 @@ News
 * \[**2019.08**\] Delivered a tutorial on [TextCube](http://www.vldb.org/pvldb/vol12/p1974-meng.pdf) at **VLDB 2019**!
 
 * \[**2019.08**\] One paper on [GitHub Repo Classification](https://arxiv.org/abs/1910.07115) has been accepted by **ICDM 2019**!
-
-* \[**2019.06**\] Our demo system on [Topic Mining](https://www.kdd.org/kdd2019/docs/KDD2019_Showcase_2074.pdf) has been accepted by **KDD 2019**!
 
 Education
 ======
