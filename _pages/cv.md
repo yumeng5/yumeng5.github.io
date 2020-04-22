@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* Unsupervised Word Embedding Learning by Incorporating Local and Global Contexts \[[PDF](https://www.frontiersin.org/articles/10.3389/fdata.2020.00009/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=517899)\]  
-**Yu Meng**, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Jiawei Han.  
-Frontiers in Big Data, 2020
+* Minimally Supervised Categorization of Text with Metadata  
+Yu Zhang\*, **Yu Meng**\*, Jiaxin Huang, Frank F. Xu, Xuan Wang, Jiawei Han.  
+ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2020
 
 * Discriminative Topic Mining via Category-Name Guided Text Embedding \[[PDF](https://arxiv.org/abs/1908.07162)\] \[[Video](https://drive.google.com/file/d/1uMYkikTDHeupTCG5ZIlsfo6cr6F_05KU/view?usp=sharing)\] \[[Code](https://github.com/yumeng5/CatE)\]    
 **Yu Meng**\*, Jiaxin Huang\*, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han.  
@@ -24,6 +24,10 @@ The Web Conference (**WWW**), 2020
 * Separate and Attend in Personal Email Search \[[PDF](https://arxiv.org/abs/1911.09732)\] \[[Google AI Page](https://ai.google/research/pubs/pub48688)\]  
 **Yu Meng**, Maryam Karimzadehgan, Honglei Zhuang, Donald Metzler.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
+
+* Unsupervised Word Embedding Learning by Incorporating Local and Global Contexts \[[PDF](https://www.frontiersin.org/articles/10.3389/fdata.2020.00009/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=517899)\]  
+**Yu Meng**, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Jiawei Han.  
+Frontiers in Big Data, 2020
 
 * Spherical Text Embedding \[[PDF](https://arxiv.org/abs/1911.01196)\] \[[Slides](/files/Spherical-Text-Embedding.pdf)\] \[[Poster](/files/Spherical-Text-Embedding-poster.pdf)\] \[[Code](https://github.com/yumeng5/Spherical-Text-Embedding)\]  
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Chao Zhang, Honglei Zhuang, Lance Kaplan, Jiawei Han.  
