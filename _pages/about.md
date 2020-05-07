@@ -15,7 +15,7 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 News
 ======
 
-* \[**2020.04**\] One paper on Text Classification with Meta Data has been accepted by **SIGIR 2020**!
+* \[**2020.04**\] One paper on [Text Classification with Meta Data](https://arxiv.org/abs/2005.00624) has been accepted by **SIGIR 2020**!
 
 * \[**2020.01**\] Two papers on [Topic Mining](https://arxiv.org/abs/1908.07162) and [Set Expansion](https://arxiv.org/abs/2001.10106) have been accepted by **WWW 2020**!
 
