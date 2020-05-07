@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Minimally Supervised Categorization of Text with Metadata  
+* Minimally Supervised Categorization of Text with Metadata \[[PDF](https://arxiv.org/abs/2005.00624)\] \[[Code](https://github.com/yuzhimanhua/MetaCat)\]  
 Yu Zhang\*, **Yu Meng**\*, Jiaxin Huang, Frank F. Xu, Xuan Wang, Jiawei Han.  
 ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2020
 
