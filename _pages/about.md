@@ -14,6 +14,9 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
+* \[**2020.05**\] Tow papers on Hierarchical Topic Mining and Taxonomy Construction have been accepted by **KDD 2020**!
+
+* \[**2020.05**\] Our tutorial on Embedding-Driven Text Analysis has been accepted by **KDD 2020**!
 
 * \[**2020.04**\] One paper on [Text Classification with Meta Data](https://arxiv.org/abs/2005.00624) has been accepted by **SIGIR 2020**!
 
@@ -22,10 +25,6 @@ News
 * \[**2019.10**\] My summer intern work at Google on [Email Search](https://arxiv.org/abs/1911.09732) has been accepted by **WSDM 2020**!
 
 * \[**2019.09**\] My work on [Spherical Text Embedding](https://arxiv.org/abs/1911.01196) has been accepted by **NeurIPS 2019**!
-
-* \[**2019.08**\] Delivered a tutorial on [TextCube](http://www.vldb.org/pvldb/vol12/p1974-meng.pdf) at **VLDB 2019**!
-
-* \[**2019.08**\] One paper on [GitHub Repo Classification](https://arxiv.org/abs/1910.07115) has been accepted by **ICDM 2019**!
 
 Education
 ======
