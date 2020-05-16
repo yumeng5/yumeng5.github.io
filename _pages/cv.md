@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications (\*=Equal Contribution)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+(\*=Equal Contribution)
 * Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding  
 **Yu Meng**\*, Yunyi Zhang\*, Jiaxin Huang, Yu Zhang, Chao Zhang, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020
