@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+* Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding  
+**Yu Meng**\*, Yunyi Zhang\*, Jiaxin Huang, Yu Zhang, Chao Zhang, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020
+
+* CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring  
+Jiaxin Huang, Yiqing Xie, **Yu Meng**, Yunyi Zhang, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020
+
+* Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis  
+**Yu Meng**, Jiaxin Huang, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020 _(Tutorial)_
 
 * Minimally Supervised Categorization of Text with Metadata \[[PDF](https://arxiv.org/abs/2005.00624)\] \[[Code](https://github.com/yuzhimanhua/MetaCat)\]  
 Yu Zhang\*, **Yu Meng**\*, Jiaxin Huang, Frank F. Xu, Xuan Wang, Jiawei Han.  
