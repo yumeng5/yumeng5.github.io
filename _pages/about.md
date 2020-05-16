@@ -14,7 +14,7 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
-* \[**2020.05**\] Tow papers on Hierarchical Topic Mining and Taxonomy Construction have been accepted by **KDD 2020**!
+* \[**2020.05**\] Two papers on Hierarchical Topic Mining and Taxonomy Construction have been accepted by **KDD 2020**!
 
 * \[**2020.05**\] Our tutorial on Embedding-Driven Text Analysis has been accepted by **KDD 2020**!
 
