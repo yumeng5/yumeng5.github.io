@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %}  
 (\*=Equal Contribution)
 * Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding  
 **Yu Meng**\*, Yunyi Zhang\*, Jiaxin Huang, Yu Zhang, Chao Zhang, Jiawei Han.  
