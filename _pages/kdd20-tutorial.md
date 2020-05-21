@@ -1,12 +1,11 @@
 ---
 permalink: /kdd20-tutorial/
-title: "KDD 2020 Tutorial"
 author_profile: true
 ---
 
 <center>
 <h1>
-Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis
+KDD'20 Tutorial: Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis
 </h1>
 Yu Meng, Jiaxin Huang, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
