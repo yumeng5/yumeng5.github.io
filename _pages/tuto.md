@@ -1,5 +1,5 @@
 ---
-permalink: /tuto/
+permalink: /kdd20-tutorial/
 title: "KDD 2020 Tutorial"
 author_profile: true
 ---
