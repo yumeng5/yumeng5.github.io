@@ -24,10 +24,11 @@ To be uploaded
 <br/>
 <br/>
 <br/>
-<br/>
 
 <img align="left" img src="/images/Jiaxin_Huang.jpg" alt="Jiaxin Huang" style="width: 200px;margin-right:50px;"/>**Jiaxin Huang**, Ph.D. student, Computer Science, UIUC. Her research focuses on mining structured knowledge from massive text corpora. She is the recipient of Chirag Foundation Graduate Fellowship in Computer Science.
 
+<br/>
+<br/>
 <br/>
 <br/>
 
