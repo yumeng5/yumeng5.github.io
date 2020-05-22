@@ -16,7 +16,7 @@ News
 ======
 * \[**2020.05**\] Two papers on Hierarchical Topic Mining and Taxonomy Construction have been accepted by **KDD 2020**!
 
-* \[**2020.05**\] Our tutorial on Embedding-Driven Text Analysis has been accepted by **KDD 2020**!
+* \[**2020.05**\] Our tutorial on [Embedding-Driven Text Analysis](https://yumeng5.github.io/kdd20-tutorial/) has been accepted by **KDD 2020**!
 
 * \[**2020.04**\] One paper on [Text Classification with Meta Data](https://arxiv.org/abs/2005.00624) has been accepted by **SIGIR 2020**!
 
