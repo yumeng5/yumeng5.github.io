@@ -17,7 +17,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020
 Jiaxin Huang, Yiqing Xie, **Yu Meng**, Yunyi Zhang, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020
 
-* Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis  
+* Embedding-Driven Multi-Dimensional Topic Mining and Text Analysis \[[Tutorial Page](https://yumeng5.github.io/kdd20-tutorial/)\]  
 **Yu Meng**, Jiaxin Huang, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020 _(Tutorial)_
 
