@@ -9,7 +9,7 @@ KDD'20 Tutorial: Embedding-Driven Multi-Dimensional Topic Mining and Text Analys
 </h1>
 Yu Meng, Jiaxin Huang, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
-Time: TBD
+Time: Aug 23, 2020 8:00 AM - 12:00 PM (PST)
 </center>
 
 ## Abstract
@@ -20,7 +20,12 @@ In this tutorial, we will introduce recent advances in text embeddings and their
 
 ## Slides
 
-To be uploaded
+* Introduction \[[Slides](/files/kdd20-tutorial/Part0.pdf)\]
+* Part I: Overview of Text Embedding Methods \[[Slides](/files/kdd20-tutorial/Part1.pdf)\]
+* Part II: Multi-faceted Taxonomy Construction \[[Slides](/files/kdd20-tutorial/Part2.pdf)\]
+* Part III: Multi-Dimensional Topic Mining \[[Slides](/files/kdd20-tutorial/Part3.pdf)\]
+* Part IV: Embedding-Driven Multi-Dimensional Text Analysis \[[Slides](/files/kdd20-tutorial/Part4.pdf)\]
+* Summary: Overview of Text Embedding Methods \[[Slides](/files/kdd20-tutorial/Summary.pdf)\]
 
 ## Presenters
 
