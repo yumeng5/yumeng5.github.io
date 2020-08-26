@@ -14,7 +14,9 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
-* \[**2020.05**\] Two papers on Hierarchical Topic Mining and Taxonomy Construction have been accepted by **KDD 2020**!
+* \[**2020.08**\] One paper on Text Outlier Detection has been accepted by **ICDM 2020**!
+
+* \[**2020.05**\] Two papers on [Hierarchical Topic Mining](https://arxiv.org/abs/2007.09536) and Taxonomy Construction have been accepted by **KDD 2020**!
 
 * \[**2020.05**\] Our tutorial on [Embedding-Driven Text Analysis](https://yumeng5.github.io/kdd20-tutorial/) has been accepted by **KDD 2020**!
 
