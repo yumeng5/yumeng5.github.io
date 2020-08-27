@@ -13,7 +13,7 @@ redirect_from:
 Edouard Fouché, **Yu Meng**, Fang Guo, Honglei Zhuang, Klemens Böhm, Jiawei Han.  
 IEEE International Conference on Data Mining (**ICDM**), 2020
 
-* Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding \[[PDF](https://arxiv.org/abs/2007.09536)\] \[[Code](https://github.com/yumeng5/JoSH)\]  
+* Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding \[[PDF](https://arxiv.org/abs/2007.09536)\] \[[Slides](/files/JoSH.pdf)\] \[[Code](https://github.com/yumeng5/JoSH)\]  
 **Yu Meng**\*, Yunyi Zhang\*, Jiaxin Huang, Yu Zhang, Chao Zhang, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020
 
