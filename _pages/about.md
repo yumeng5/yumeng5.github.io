@@ -14,6 +14,8 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
+* \[**2020.09**\] Two papers on Weakly-Supervised Text Classification and Aspect-Based Sentiment Analysis have been accepted by **EMNLP 2020**!
+
 * \[**2020.08**\] One paper on Text Outlier Detection has been accepted by **ICDM 2020**!
 
 * \[**2020.05**\] Two papers on [Hierarchical Topic Mining](https://arxiv.org/abs/2007.09536) and Taxonomy Construction have been accepted by **KDD 2020**!
