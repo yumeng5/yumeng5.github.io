@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}  
 (\*=Equal Contribution)
+
+* Weakly-Supervised Text Classification with Self-Trained Language Models  
+**Yu Meng**, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
+
+* Aspect-Based Sentiment Analysis by Aspect-Sentiment Joint Embedding  
+Jiaxin Huang, **Yu Meng**, Fang Guo, Heng Ji, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
+
 * Mining Text Outliers in Document Directories  
 Edouard Fouché, **Yu Meng**, Fang Guo, Honglei Zhuang, Klemens Böhm, Jiawei Han.  
 IEEE International Conference on Data Mining (**ICDM**), 2020
