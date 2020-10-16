@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Hierarchical Metadata-Aware Document Categorization under Weak Supervision  
+Yu Zhang, Xiusi Chen, **Yu Meng**, Jiawei Han.  
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2021
+
 * Text Classification Using Label Names Only: A Language Model Self-Training Approach \[[PDF](https://arxiv.org/abs/2010.07245)\] \[[Code](https://github.com/yumeng5/LOTClass)\]  
 **Yu Meng**, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
