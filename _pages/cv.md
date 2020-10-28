@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Hierarchical Metadata-Aware Document Categorization under Weak Supervision  
+* Hierarchical Metadata-Aware Document Categorization under Weak Supervision \[[PDF](https://arxiv.org/abs/2010.13556)\] \[[Code](https://github.com/yuzhimanhua/HIMECat)\]  
 Yu Zhang, Xiusi Chen, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2021
 
