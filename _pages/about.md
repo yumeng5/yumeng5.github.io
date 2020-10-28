@@ -14,7 +14,7 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
-* \[**2020.10**\] One paper on Hierarchical Text Classification with Meta Data has been accepted by **WSDM 2021**!
+* \[**2020.10**\] One paper on [Hierarchical Text Classification with Meta Data](https://arxiv.org/abs/2010.13556) has been accepted by **WSDM 2021**!
 
 * \[**2020.09**\] Two papers on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) and [Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.06705) have been accepted by **EMNLP 2020**!
 
