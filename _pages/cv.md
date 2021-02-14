@@ -22,7 +22,7 @@ Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 Jiaxin Huang, **Yu Meng**, Fang Guo, Heng Ji, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 
-* Mining Text Outliers in Document Directories  
+* Mining Text Outliers in Document Directories \[[PDF](https://ieeexplore.ieee.org/abstract/document/9338390)\] \[[Code](https://github.com/edouardfouche/MiningTextOutliers)\]  
 Edouard Fouché, **Yu Meng**, Fang Guo, Honglei Zhuang, Klemens Böhm, Jiawei Han.  
 IEEE International Conference on Data Mining (**ICDM**), 2020
 
