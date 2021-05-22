@@ -32,13 +32,13 @@ We will demonstrate on real-world datasets how the pre-trained text representati
 
 ## Presenters
 
-<img align="left" img src="/images/Yu_Meng.jpg" alt="Yu Meng" style="width: 200px;margin-right:50px;"/>**Yu Meng**, Ph.D. student, Computer Science, UIUC. His research focuses on mining structured knowledge from massive text corpora with minimum human supervision.
+<img align="left" img src="/images/Yu_Meng.jpg" alt="Yu Meng" style="width: 200px;margin-right:50px;"/>**Yu Meng**, Ph.D. student, Computer Science, UIUC. His research focuses on mining structured knowledge from massive text corpora with minimum human supervision. He received the Google PhD Fellowship (2021) in Structured Data and Database Management.
 
 <br/>
 <br/>
 <br/>
 
-<img align="left" img src="/images/Jiaxin_Huang.jpg" alt="Jiaxin Huang" style="width: 200px;margin-right:50px;"/>**Jiaxin Huang**, Ph.D. student, Computer Science, UIUC. Her research focuses on mining structured knowledge from massive text corpora. She is the recipient of Chirag Foundation Graduate Fellowship in Computer Science.
+<img align="left" img src="/images/Jiaxin_Huang.jpg" alt="Jiaxin Huang" style="width: 200px;margin-right:50px;"/>**Jiaxin Huang**, Ph.D. student, Computer Science, UIUC. Her research focuses on mining structured knowledge from massive text corpora. She received the Microsoft Research PhD Fellowship (2021) and the Chirag Foundation Graduate Fellowship (2018) in Computer Science, UIUC.
 
 <br/>
 <br/>
@@ -50,7 +50,6 @@ We will demonstrate on real-world datasets how the pre-trained text representati
 
 <img align="left" img src="/images/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received WWW'18 Best Poster Award Honorable Mention. 
 
-<br/>
 <br/>
 <br/>
 <br/>
