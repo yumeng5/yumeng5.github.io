@@ -53,5 +53,8 @@ We will demonstrate on real-world datasets how the pre-trained text representati
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 <img align="left" img src="/images/Jiawei_Han.jpg" alt="Jiawei Han" style="width: 200px;margin-right:50px;"/>**Jiawei Han**, Michael Aiken Chair Professor, Computer Science, UIUC. His research areas encompass data mining, text mining, data warehousing and information network analysis, with over 800 research publications. He is Fellow of ACM, Fellow of IEEE, and has received numerous prominent awards, including ACM SIGKDD Innovation Award (2004) and IEEE Computer Society W. Wallace McDowell Award (2009). He has delivered 50+ conference tutorials or keynote speeches.
