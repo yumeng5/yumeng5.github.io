@@ -46,9 +46,11 @@ We will demonstrate on real-world datasets how the pre-trained text representati
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img align="left" img src="/images/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received WWW'18 Best Poster Award Honorable Mention. 
 
+<br/>
 <br/>
 <br/>
 <br/>
