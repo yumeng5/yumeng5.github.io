@@ -28,7 +28,12 @@ We will demonstrate on real-world datasets how the pre-trained text representati
 
 ## Slides
 
-
+* Introduction \[[Slides](/files/kdd21-tutorial/Part0.pdf)\]
+* Part I: Text Embedding and Language Models \[[Slides](/files/kdd21-tutorial/Part1.pdf)\]
+* Part II: Revisiting Text Mining Fundamentals with Pre-Trained Language Models \[[Slides](/files/kdd21-tutorial/Part2.pdf)\]
+* Part III: Embedding-Driven Topic Discovery \[[Slides](/files/kdd21-tutorial/Part3.pdf)\]
+* Part IV: Weakly-Supervised Text Classification: Embeddings with Less Human Effort \[[Slides](/files/kdd21-tutorial/Part4.pdf)\]
+* Part V: Advanced Text Mining Applications Empowered by Embeddings \[[Slides](/files/kdd21-tutorial/Part5.pdf)\]
 
 ## Presenters
 
