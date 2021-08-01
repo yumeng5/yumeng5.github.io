@@ -9,7 +9,7 @@ KDD'21 Tutorial: On the Power of Pre-Trained Text Representations: Models and Ap
 </h1>
 Yu Meng, Jiaxin Huang, Yu Zhang, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
-Time: TBD
+Time: Aug 14, 2021 9:00 AM - 12:00 PM (SGT) / Aug 13, 2021 6:00 PM - 9:00 PM (PST)
 </center>
 
 ## Abstract
