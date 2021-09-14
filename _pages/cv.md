@@ -10,6 +10,22 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training \[[PDF](https://arxiv.org/abs/2109.05003)\] \[[Code](https://github.com/yumeng5/RoSTER)\]  
+**Yu Meng**, Yunyi Zhang, Jiaxin Huang, Xuan Wang, Yu Zhang, Heng Ji, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021
+
+* UCPhrase: Unsupervised Context-aware Quality Phrase Tagging \[[PDF](https://arxiv.org/abs/2105.14078)\] \[[Code](https://github.com/xgeric/UCPhrase-exp)\]  
+Xiaotao Gu, Zihan Wang, Zhenyu Bi, **Yu Meng**, Liyuan Liu, Jiawei Han, Jingbo Shang.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2021
+
+* On the Power of Pre-Trained Text Representations: Models and Applications in Text Mining \[[Tutorial Page](https://yumeng5.github.io/kdd21-tutorial/)\]  
+**Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2021 _(Tutorial)_
+
+* TaxoClass: Hierarchical Multi-Label Text Classification Using Only Class Names \[[PDF](https://aclanthology.org/2021.naacl-main.335/)\] \[[Code](https://github.com/mickeystroller/TaxoClass)\]  
+Jiaming Shen, Wenda Qiu, **Yu Meng**, Jingbo Shang, Xiang Ren, Jiawei Han.  
+Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021
+
 * Hierarchical Metadata-Aware Document Categorization under Weak Supervision \[[PDF](https://arxiv.org/abs/2010.13556)\] \[[Code](https://github.com/yuzhimanhua/HIMECat)\]  
 Yu Zhang, Xiusi Chen, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2021
