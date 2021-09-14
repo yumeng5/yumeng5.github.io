@@ -14,23 +14,20 @@ I am especially passionate about developing unsupervised and weakly-supervised (
 
 News
 ======
+* \[**2021.08**\] One paper on [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) has been accepted by **EMNLP 2021**!
+
+* \[**2021.05**\] One paper on [Phrase Mining](https://arxiv.org/abs/2105.14078) has been accepted by **KDD 2021**!
+
+* \[**2021.05**\] Our tutorial on [Text Representations and Applications to Text Mining](https://yumeng5.github.io/kdd21-tutorial/) has been accepted by **KDD 2021**!
+
+* \[**2021.03**\] One paper on [Hierarchical Weakly-Supervised Text Classification](https://aclanthology.org/2021.naacl-main.335/) has been accepted by **NAACL 2021**!
+
 * \[**2020.10**\] One paper on [Hierarchical Text Classification with Meta Data](https://arxiv.org/abs/2010.13556) has been accepted by **WSDM 2021**!
 
 * \[**2020.09**\] Two papers on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) and [Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.06705) have been accepted by **EMNLP 2020**!
 
 * \[**2020.08**\] One paper on Text Outlier Detection has been accepted by **ICDM 2020**!
 
-* \[**2020.05**\] Two papers on [Hierarchical Topic Mining](https://arxiv.org/abs/2007.09536) and [Taxonomy Construction](https://arxiv.org/abs/2010.06714) have been accepted by **KDD 2020**!
-
-* \[**2020.05**\] Our tutorial on [Embedding-Driven Text Analysis](https://yumeng5.github.io/kdd20-tutorial/) has been accepted by **KDD 2020**!
-
-* \[**2020.04**\] One paper on [Text Classification with Meta Data](https://arxiv.org/abs/2005.00624) has been accepted by **SIGIR 2020**!
-
-* \[**2020.01**\] Two papers on [Topic Mining](https://arxiv.org/abs/1908.07162) and [Set Expansion](https://arxiv.org/abs/2001.10106) have been accepted by **WWW 2020**!
-
-* \[**2019.10**\] My summer intern work at Google on [Email Search](https://arxiv.org/abs/1911.09732) has been accepted by **WSDM 2020**!
-
-* \[**2019.09**\] My work on [Spherical Text Embedding](https://arxiv.org/abs/1911.01196) has been accepted by **NeurIPS 2019**!
 
 Education
 ======
