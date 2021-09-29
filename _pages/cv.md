@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining \[[PDF](https://arxiv.org/abs/2102.08473)\]  
+**Yu Meng**, Chenyan Xiong, Payal Bajaj, Saurabh Tiwary, Paul Bennett, Jiawei Han, Xia Song.  
+Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2021
+
 * Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training \[[PDF](https://arxiv.org/abs/2109.05003)\] \[[Code](https://github.com/yumeng5/RoSTER)\]  
 **Yu Meng**, Yunyi Zhang, Jiaxin Huang, Xuan Wang, Yu Zhang, Heng Ji, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021
