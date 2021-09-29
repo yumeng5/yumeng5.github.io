@@ -16,6 +16,8 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 
 News
 ======
+* \[**2021.09**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2102.08473) has been accepted by **NeurIPS 2021**!
+
 * \[**2021.08**\] One paper on [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) has been accepted by **EMNLP 2021**!
 
 * \[**2021.05**\] One paper on [Phrase Mining](https://arxiv.org/abs/2105.14078) has been accepted by **KDD 2021**!
@@ -27,8 +29,6 @@ News
 * \[**2020.10**\] One paper on [Hierarchical Text Classification with Meta Data](https://arxiv.org/abs/2010.13556) has been accepted by **WSDM 2021**!
 
 * \[**2020.09**\] Two papers on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) and [Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2010.06705) have been accepted by **EMNLP 2020**!
-
-* \[**2020.08**\] One paper on Text Outlier Detection has been accepted by **ICDM 2020**!
 
 
 Education
