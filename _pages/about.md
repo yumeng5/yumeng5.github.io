@@ -16,6 +16,10 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 
 News
 ======
+* \[**2021.10**\] One paper on Weakly-Supervised Text Classification with Meta Data has been accepted by **WSDM 2022**!
+
+* \[**2021.10**\] Our tutorial on Text Representations and Applications to Text Mining has been accepted by **AAAI 2022**!
+
 * \[**2021.09**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2102.08473) has been accepted by **NeurIPS 2021**!
 
 * \[**2021.08**\] One paper on [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) has been accepted by **EMNLP 2021**!
