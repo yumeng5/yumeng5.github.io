@@ -10,6 +10,18 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Pre-Trained Language Representations for Text Mining  
+**Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2022 _(Tutorial)_
+
+* MotifClass: Weakly Supervised Text Classification with Higher-order Metadata Information  
+Yu Zhang, Shweta Garg, **Yu Meng**, Xiusi Chen, Jiawei Han.  
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2022
+
+* Automated Taxonomy Discovery and Exploration  
+Jiaming Shen, Xiaotao Gu, **Yu Meng**, Jiawei Han.  
+IEEE International Conference on Data Mining (**ICDM**), 2021 _(Tutorial)_
+
 * COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining \[[PDF](https://arxiv.org/abs/2102.08473)\]  
 **Yu Meng**, Chenyan Xiong, Payal Bajaj, Saurabh Tiwary, Paul Bennett, Jiawei Han, Xia Song.  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2021
