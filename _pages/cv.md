@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators \[[PDF](https://openreview.net/forum?id=sX3XaHwotOg)\]  
+**Yu Meng**, Chenyan Xiong, Payal Bajaj, Saurabh Tiwary, Paul Bennett, Jiawei Han, Xia Song.  
+International Conference on Learning Representations (**ICLR**), 2022
+
+* Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations \[[PDF]()\] \[[Code](https://github.com/yumeng5/TopClus)\]  
+**Yu Meng**, Yunyi Zhang, Jiaxin Huang, Yu Zhang, Jiawei Han.  
+The Web Conference (**WWW**), 2022
+
 * Pre-Trained Language Representations for Text Mining  
 **Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022 _(Tutorial)_
