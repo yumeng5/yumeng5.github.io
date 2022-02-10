@@ -14,7 +14,7 @@ redirect_from:
 **Yu Meng**, Chenyan Xiong, Payal Bajaj, Saurabh Tiwary, Paul Bennett, Jiawei Han, Xia Song.  
 International Conference on Learning Representations (**ICLR**), 2022
 
-* Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations \[[PDF]()\] \[[Code](https://github.com/yumeng5/TopClus)\]  
+* Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations \[[PDF](https://arxiv.org/abs/2202.04582)\] \[[Code](https://github.com/yumeng5/TopClus)\]  
 **Yu Meng**, Yunyi Zhang, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2022
 
