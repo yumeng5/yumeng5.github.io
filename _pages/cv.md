@@ -18,7 +18,7 @@ International Conference on Learning Representations (**ICLR**), 2022
 **Yu Meng**, Yunyi Zhang, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2022
 
-* Pre-Trained Language Representations for Text Mining  
+* Pre-Trained Language Representations for Text Mining \[[Tutorial Page](https://yumeng5.github.io/aaai22-tutorial/)\]  
 **Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022 _(Tutorial)_
 
