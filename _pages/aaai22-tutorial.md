@@ -22,12 +22,12 @@ The target audience includes typical practitioners of AI who might have a high-l
 
 ## Slides
 
-* Introduction \[[Slides](/files/kdd21-tutorial/Part0.pdf)\]
-* Part I: Text Embedding and Language Models \[[Slides](/files/kdd21-tutorial/Part1.pdf)\]
-* Part II: Revisiting Text Mining Fundamentals with Pre-Trained Language Models \[[Slides](/files/kdd21-tutorial/Part2.pdf)\]
-* Part III: Embedding-Driven Topic Discovery \[[Slides](/files/kdd21-tutorial/Part3.pdf)\]
-* Part IV: Weakly-Supervised Text Classification: Embeddings with Less Human Effort \[[Slides](/files/kdd21-tutorial/Part4.pdf)\]
-* Part V: Advanced Text Mining Applications Empowered by Embeddings \[[Slides](/files/kdd21-tutorial/Part5.pdf)\]
+* Introduction \[[Slides](/files/aaai22-tutorial/Part0.pdf)\]
+* Part I: Pre-Trained Language Models \[[Slides](/files/aaai22-tutorial/Part1.pdf)\]
+* Part II: Revisiting Text Mining Fundamentals with Pre-Trained Language Models \[[Slides](/files/aaai22-tutorial/Part2.pdf)\]
+* Part III: Embedding-Driven Topic Discovery \[[Slides](/files/aaai22-tutorial/Part3.pdf)\]
+* Part IV: Weakly-Supervised Text Classification: Embeddings with Less Human Effort \[[Slides](/files/aaai22-tutorial/Part4.pdf)\]
+* Part V: Advanced Text Mining Applications Empowered by Pre-Trained Language Models \[[Slides](/files/aaai22-tutorial/Part5.pdf)\]
 
 ## Presenters
 
