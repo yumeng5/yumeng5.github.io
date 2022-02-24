@@ -21,7 +21,7 @@ The target audience includes typical practitioners of AI who might have a high-l
 
 ## Tutorial Recording
 
-A recording of our tutorial can be found [here](https://www.dropbox.com/s/1je280r7vfmyn3y/Pre-Trained%20Language%20Representations%20for%20Text%20Mining.mp4?dl=0).
+A recording of our tutorial can be found at [Google Drive](https://urldefense.com/v3/__https:/drive.google.com/file/d/1i_nN02ENzjWvIzLP1sssQVATR5OwzxQt/view?usp=sharing__;!!BS-MXwIi!SrnG1dOhl2gLZMPth0IEXIeN6cS3nEcQEJIdrJ85Q-e6G38qqa7bBysa9le8_e33WhVMgw$) and [Dropbox](https://www.dropbox.com/s/1je280r7vfmyn3y/Pre-Trained%20Language%20Representations%20for%20Text%20Mining.mp4?dl=0).
 
 ## Slides
 
