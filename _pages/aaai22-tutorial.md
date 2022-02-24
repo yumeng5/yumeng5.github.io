@@ -19,6 +19,9 @@ Target audiences include any researchers and practitioners who are interested in
 
 The target audience includes typical practitioners of AI who might have a high-level idea about preference learning but are not typically aware of the various challenging facets of the problem. The novelty of the tutorial lies in translating the different paradigms across communities into the language of AI so that it will benefit the ML/AI community. The tutorial will be self-contained and does not expect any prerequisites. Audience with basic knowledge of AI/ML would be able to follow most of the material.
 
+## Tutorial Recording
+
+A recording of our tutorial can be found [here](https://www.dropbox.com/s/1je280r7vfmyn3y/Pre-Trained%20Language%20Representations%20for%20Text%20Mining.mp4?dl=0).
 
 ## Slides
 
