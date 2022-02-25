@@ -16,13 +16,13 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 
 News
 ======
+* \[**2022.02**\] Delivered a tutorial on [Pre-Trained Language Representations and Applications to Text Mining](https://yumeng5.github.io/aaai22-tutorial/) at **AAAI 2022**.
+
 * \[**2022.01**\] My intern work at Microsoft on [Language Model Pretraining](https://openreview.net/forum?id=sX3XaHwotOg) has been accepted by **ICLR 2022**!
 
 * \[**2022.01**\] One paper on [Topic Discovery Using Language Models]() has been accepted by **WWW 2022**!
 
 * \[**2021.10**\] One paper on [Weakly-Supervised Text Classification with Meta Data](https://arxiv.org/abs/2111.04022) has been accepted by **WSDM 2022**!
-
-* \[**2021.10**\] Our tutorial on Text Representations and Applications to Text Mining has been accepted by **AAAI 2022**!
 
 * \[**2021.09**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2102.08473) has been accepted by **NeurIPS 2021**!
 
