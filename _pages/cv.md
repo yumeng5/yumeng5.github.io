@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators \[[PDF](https://openreview.net/forum?id=sX3XaHwotOg)\]  
+* Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds  
+Yu Zhang, **Yu Meng**, Xuan Wang, Sheng Wang, Jiawei Han.  
+Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**), 2022
+
+* Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators \[[PDF](https://arxiv.org/abs/2204.03243)\] \[[Code](https://github.com/microsoft/AMOS)\]  
 **Yu Meng**, Chenyan Xiong, Payal Bajaj, Saurabh Tiwary, Paul Bennett, Jiawei Han, Xia Song.  
 International Conference on Learning Representations (**ICLR**), 2022
 
