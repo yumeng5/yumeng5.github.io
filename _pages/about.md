@@ -16,6 +16,13 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 
 News
 ======
+
+* \[**2022.05**\] One paper on [Fine-Grained Entity Typing]() has been accepted by **KDD 2022**!
+
+* \[**2022.05**\] Our tutorial on [Adapting Pretrained Text Representations to Text Mining](https://yumeng5.github.io/kdd22-tutorial/) has been accepted by **KDD 2022**!
+
+* \[**2022.04**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2205.01845) has been accepted by **NAACL 2022**!
+
 * \[**2022.02**\] Delivered a tutorial on [Pre-Trained Language Representations and Applications to Text Mining](https://yumeng5.github.io/aaai22-tutorial/) at **AAAI 2022**.
 
 * \[**2022.01**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2204.03243) has been accepted by **ICLR 2022**!
@@ -27,12 +34,6 @@ News
 * \[**2021.09**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2102.08473) has been accepted by **NeurIPS 2021**!
 
 * \[**2021.08**\] One paper on [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) has been accepted by **EMNLP 2021**!
-
-* \[**2021.05**\] One paper on [Phrase Mining](https://arxiv.org/abs/2105.14078) has been accepted by **KDD 2021**!
-
-* \[**2021.05**\] Our tutorial on [Text Representations and Applications to Text Mining](https://yumeng5.github.io/kdd21-tutorial/) has been accepted by **KDD 2021**!
-
-* \[**2021.03**\] One paper on [Hierarchical Weakly-Supervised Text Classification](https://aclanthology.org/2021.naacl-main.335/) has been accepted by **NAACL 2021**!
 
 
 Education
