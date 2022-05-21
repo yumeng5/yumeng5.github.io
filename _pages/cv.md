@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds  
+* Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation  
+Jiaxin Huang, **Yu Meng**, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022
+
+* Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds \[[PDF](https://arxiv.org/abs/2205.01845)\] \[[Code](https://github.com/yuzhimanhua/SeeTopic)\]  
 Yu Zhang, **Yu Meng**, Xuan Wang, Sheng Wang, Jiawei Han.  
 Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**), 2022
 
