@@ -14,6 +14,10 @@ redirect_from:
 Jiaxin Huang, **Yu Meng**, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022
 
+* Adapting Pretrained Text Representations to Text Mining \[[Tutorial Page](https://yumeng5.github.io/kdd22-tutorial/)\]  
+**Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022 _(Tutorial)_
+
 * Seed-Guided Topic Discovery with Out-of-Vocabulary Seeds \[[PDF](https://arxiv.org/abs/2205.01845)\] \[[Code](https://github.com/yuzhimanhua/SeeTopic)\]  
 Yu Zhang, **Yu Meng**, Xuan Wang, Sheng Wang, Jiawei Han.  
 Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**), 2022
