@@ -17,7 +17,7 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 News
 ======
 
-* \[**2022.05**\] One paper on [Fine-Grained Entity Typing]() has been accepted by **KDD 2022**!
+* \[**2022.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2206.13746) has been accepted by **KDD 2022**!
 
 * \[**2022.05**\] Our tutorial on [Adapting Pretrained Text Representations to Text Mining](https://yumeng5.github.io/kdd22-tutorial/) has been accepted by **KDD 2022**!
 
