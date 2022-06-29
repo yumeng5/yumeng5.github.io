@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation  
+* Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation \[[PDF](https://arxiv.org/abs/2206.13746)\] \[[Code](https://github.com/teapot123/Fine-Grained-Entity-Typing)\]  
 Jiaxin Huang, **Yu Meng**, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022
 
