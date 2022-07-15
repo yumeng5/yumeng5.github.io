@@ -53,7 +53,7 @@ and (4) weakly-supervised methods for text classification and advanced text mini
 <br/>
 <br/>
 
-<img align="left" img src="/images/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received WWW'18 Best Poster Award Honorable Mention. 
+<img align="left" img src="/images/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received the Yunni and Maxine Pao Memorial Fellowship (2022) and WWW Best Poster Award Honorable Mention (2018).
 
 <br/>
 <br/>
