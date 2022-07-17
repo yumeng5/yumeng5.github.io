@@ -38,7 +38,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2022 _(Tutorial)_
 Yu Zhang, Shweta Garg, **Yu Meng**, Xiusi Chen, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2022
 
-* Automated Taxonomy Discovery and Exploration  
+* Automated Taxonomy Discovery and Exploration \[[Tutorial Page](https://jmshen1994.github.io/2021/09/29/ICDM21-Tutorial.html)\]  
 Jiaming Shen, Xiaotao Gu, **Yu Meng**, Jiawei Han.  
 IEEE International Conference on Data Mining (**ICDM**), 2021 _(Tutorial)_
 
