@@ -9,7 +9,7 @@ KDD'22 Tutorial: Adapting Pretrained Representations for Text Mining
 </h1>
 Yu Meng, Jiaxin Huang, Yu Zhang, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
-Time: Aug 14, 2022 1:00 PM - 5:00 PM (EDT)
+Time: Aug 14, 2022 1:00 PM - 4:00 PM (EDT)
 </center>
 
 ## Abstract
