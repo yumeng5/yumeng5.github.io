@@ -29,11 +29,11 @@ and (4) weakly-supervised methods for text classification and advanced text mini
 ## Slides
 
 * Introduction \[[Slides](/files/kdd22-tutorial/Part0.pdf)\]
-* Part I: Text Embedding and Language Models \[[Slides](/files/kdd22-tutorial/Part1.pdf)\]
-* Part II: Revisiting Text Mining Fundamentals with Pre-Trained Language Models \[[Slides](/files/kdd22-tutorial/Part2.pdf)\]
+* Part I: Pretrained Language Models \[[Slides](/files/kdd22-tutorial/Part1.pdf)\]
+* Part II: Revisiting Text Mining Fundamentals with Pretrained Language Models \[[Slides](/files/kdd22-tutorial/Part2.pdf)\]
 * Part III: Embedding-Driven Topic Discovery \[[Slides](/files/kdd22-tutorial/Part3.pdf)\]
-* Part IV: Weakly-Supervised Text Classification: Embeddings with Less Human Effort \[[Slides](/files/kdd22-tutorial/Part4.pdf)\]
-* Part V: Advanced Text Mining Applications Empowered by Embeddings \[[Slides](/files/kdd22-tutorial/Part5.pdf)\]
+* Part IV: Weakly-Supervised Text Classification \[[Slides](/files/kdd22-tutorial/Part4.pdf)\]
+* Part V: Advanced Text Mining Applications Empowered by Pretrained Embeddings \[[Slides](/files/kdd22-tutorial/Part5.pdf)\]
 
 ## Presenters
 
