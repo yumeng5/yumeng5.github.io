@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Generating Training Data with Language Models: Towards Zero-Shot Language Understanding \[[PDF](https://arxiv.org/abs/2202.04538)\] \[[Code](https://github.com/yumeng5/SuperGen)\]  
+**Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
+Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022
+
 * Few-Shot Fine-Grained Entity Typing with Automatic Label Interpretation and Instance Generation \[[PDF](https://arxiv.org/abs/2206.13746)\] \[[Code](https://github.com/teapot123/Fine-Grained-Entity-Typing)\]  
 Jiaxin Huang, **Yu Meng**, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022
