@@ -10,12 +10,14 @@ redirect_from:
 
 I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois at Urbana-Champaign (UIUC). I obtained my M.S. degree and B.S. degree also at UIUC, in Computer Science and Computer Engineering respectively.
 
-I am especially passionate about developing self-supervised, unsupervised and weakly-supervised (i.e., leveraging minimal human supervision) text mining techniques for organizing and exploring text data. As such, I work at the intersection of data mining, natural language processing and applied machine learning. In the past, I have worked on text representation learning ([ICLR'22](https://arxiv.org/abs/2204.03243), [NeurIPS'21](https://arxiv.org/abs/2102.08473), [NeurIPS'19](https://arxiv.org/abs/1911.01196)), topic discovery ([WWW'22](https://arxiv.org/abs/2202.04582), [KDD'20](https://arxiv.org/abs/2007.09536), [WWW'20](https://arxiv.org/abs/1908.07162)), weakly-supervised text classification ([EMNLP'20](https://arxiv.org/abs/2010.07245), [AAAI'19](https://arxiv.org/abs/1812.11270), [CIKM'18](https://arxiv.org/abs/1809.01478)) and distantly-supervised named entity recognition ([EMNLP'21](https://arxiv.org/abs/2109.05003)). In the long run, my research is dedicated to mining structured knowledge from large-scale text data in label-efficient ways. 
+I am especially passionate about developing self-supervised, unsupervised and weakly-supervised (i.e., leveraging minimal human supervision) text mining techniques for organizing and exploring text data. As such, I work at the intersection of data mining, natural language processing and applied machine learning. In the past, I have worked on text representation learning ([ICLR'22](https://arxiv.org/abs/2204.03243), [NeurIPS'21](https://arxiv.org/abs/2102.08473), [NeurIPS'19](https://arxiv.org/abs/1911.01196)), zero-shot learning ([NeurIPS'22](https://arxiv.org/abs/2202.04538)),  topic discovery ([WWW'22](https://arxiv.org/abs/2202.04582), [KDD'20](https://arxiv.org/abs/2007.09536), [WWW'20](https://arxiv.org/abs/1908.07162)), weakly-supervised text classification ([EMNLP'20](https://arxiv.org/abs/2010.07245), [AAAI'19](https://arxiv.org/abs/1812.11270), [CIKM'18](https://arxiv.org/abs/1809.01478)) and distantly-supervised named entity recognition ([EMNLP'21](https://arxiv.org/abs/2109.05003)). In the long run, my research is dedicated to mining structured knowledge from large-scale text data in label-efficient ways. 
 
 I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
 News
 ======
+
+* \[**2022.09**\] One paper on [Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538) has been accepted by **NeurIPS 2022**!
 
 * \[**2022.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2206.13746) has been accepted by **KDD 2022**!
 
@@ -30,10 +32,6 @@ News
 * \[**2022.01**\] One paper on [Topic Discovery Using Language Models](https://arxiv.org/abs/2202.04582) has been accepted by **WWW 2022**!
 
 * \[**2021.10**\] One paper on [Weakly-Supervised Text Classification with Meta Data](https://arxiv.org/abs/2111.04022) has been accepted by **WSDM 2022**!
-
-* \[**2021.09**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2102.08473) has been accepted by **NeurIPS 2021**!
-
-* \[**2021.08**\] One paper on [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) has been accepted by **EMNLP 2021**!
 
 
 Education
