@@ -14,8 +14,12 @@ I am especially passionate about developing self-supervised, unsupervised and we
 
 I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
+**I am on the job market for faculty positions.**
+
 News
 ======
+
+* \[**2022.10**\] Two papers on Seed-Guided Topic Discovery and Opion Summary have been accepted by **WSDM 2023**!
 
 * \[**2022.09**\] One paper on [Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538) has been accepted by **NeurIPS 2022**!
 
