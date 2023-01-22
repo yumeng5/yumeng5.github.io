@@ -10,11 +10,15 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks \[[PDF]()\] \[[Code]()\]  
+Bowen Jin, Yu Zhang, **Yu Meng**, Jiawei Han.  
+International Conference on Learning Representations (**ICLR**), 2023
+
 * Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts \[[PDF](https://arxiv.org/abs/2212.06002)\] \[[Code](https://github.com/yzhan238/SeedTopicMine)\]  
 Yu Zhang, Yunyi Zhang, Martin Michalski, Yucheng Jiang, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
 
-* FineSum: Target-Oriented, Fine-Grained Opinion Summarization  \[[Code](https://github.com/gesy17/FineSum)\]  
+* FineSum: Target-Oriented, Fine-Grained Opinion Summarization \[[PDF]()\] \[[Code](https://github.com/gesy17/FineSum)\]  
 Suyu Ge, Jiaxin Huang, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
 
