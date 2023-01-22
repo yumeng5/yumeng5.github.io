@@ -10,6 +10,18 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts \[[PDF](https://arxiv.org/abs/2212.06002)\] \[[Code](https://github.com/yzhan238/SeedTopicMine)\]  
+Yu Zhang, Yunyi Zhang, Martin Michalski, Yucheng Jiang, **Yu Meng**, Jiawei Han.  
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
+
+* FineSum: Target-Oriented, Fine-Grained Opinion Summarization  \[[Code](https://github.com/gesy17/FineSum)\]  
+Suyu Ge, Jiaxin Huang, **Yu Meng**, Jiawei Han.  
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
+
+* Turning Web-Scale Texts to Knowledge: Transferring Pretrained Representations to Text Mining Applications \[[Tutorial Page](https://yumeng5.github.io/www23-tutorial/)\]  
+**Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
+The Web Conference (**WWW**), 2023 _(Tutorial)_
+
 * Generating Training Data with Language Models: Towards Zero-Shot Language Understanding \[[PDF](https://arxiv.org/abs/2202.04538)\] \[[Code](https://github.com/yumeng5/SuperGen)\]  
 **Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022
