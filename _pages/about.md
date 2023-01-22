@@ -19,7 +19,11 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 News
 ======
 
-* \[**2022.10**\] Two papers on Seed-Guided Topic Discovery and Opion Summary have been accepted by **WSDM 2023**!
+* \[**2023.01**\] One paper on Learning Text-Rich Network Representations has been accepted by **ICLR 2023**!
+
+* \[**2022.12**\] Our tutorial on [Turning Web-Scale Texts to Knowledge: Transferring Pretrained Representations to Text Mining Applications](https://yumeng5.github.io/www23-tutorial/) has been accepted by **WWW 2023**!
+
+* \[**2022.10**\] Two papers on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) and Opion Summary have been accepted by **WSDM 2023**!
 
 * \[**2022.09**\] One paper on [Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538) has been accepted by **NeurIPS 2022**!
 
@@ -35,7 +39,6 @@ News
 
 * \[**2022.01**\] One paper on [Topic Discovery Using Language Models](https://arxiv.org/abs/2202.04582) has been accepted by **WWW 2022**!
 
-* \[**2021.10**\] One paper on [Weakly-Supervised Text Classification with Meta Data](https://arxiv.org/abs/2111.04022) has been accepted by **WSDM 2022**!
 
 
 Education
