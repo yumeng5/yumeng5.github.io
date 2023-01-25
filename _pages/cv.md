@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* SCStory: Self-supervised and Continual Online Story Discovery \[[PDF]()\] \[[Code]()\]  
+Susik Yoon, **Yu Meng**, Dongha Lee, Jiawei Han.  
+The Web Conference (**WWW**), 2023
+
+* The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study \[[PDF]()\] \[[Code]()\]  
+Yu Zhang, Bowen Jin, Qi Zhu, **Yu Meng**, Jiawei Han.  
+The Web Conference (**WWW**), 2023
+
 * Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks \[[PDF]()\] \[[Code]()\]  
 Bowen Jin, Yu Zhang, **Yu Meng**, Jiawei Han.  
 International Conference on Learning Representations (**ICLR**), 2023
