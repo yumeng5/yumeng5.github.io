@@ -19,6 +19,8 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 News
 ======
 
+* \[**2023.01**\] Two papers on [Metadata-Enhanced Scientific Text Classification]() and [Unsupervised Online Story Discovery]() have been accepted by **WWW 2023**!
+
 * \[**2023.01**\] One paper on Learning Text-Rich Network Representations has been accepted by **ICLR 2023**!
 
 * \[**2022.12**\] Our tutorial on [Turning Web-Scale Texts to Knowledge: Transferring Pretrained Representations to Text Mining Applications](https://yumeng5.github.io/www23-tutorial/) has been accepted by **WWW 2023**!
