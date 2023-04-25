@@ -10,15 +10,19 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning \[[PDF](https://arxiv.org/abs/2211.03044)\] \[[Code](https://github.com/yumeng5/FewGen)\]  
+**Yu Meng**, Martin Michalski, Jiaxin Huang, Yu Zhang, Tarek Abdelzaher, Jiawei Han.  
+International Conference on Machine Learning (**ICML**), 2023
+
 * SCStory: Self-supervised and Continual Online Story Discovery \[[PDF]()\] \[[Code]()\]  
 Susik Yoon, **Yu Meng**, Dongha Lee, Jiawei Han.  
 The Web Conference (**WWW**), 2023
 
-* The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study \[[PDF]()\] \[[Code]()\]  
+* The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study \[[PDF](https://arxiv.org/abs/2302.03341)\] \[[Code](https://github.com/yuzhimanhua/MAPLE)\]  
 Yu Zhang, Bowen Jin, Qi Zhu, **Yu Meng**, Jiawei Han.  
 The Web Conference (**WWW**), 2023
 
-* Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks \[[PDF]()\] \[[Code]()\]  
+* Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks \[[PDF](https://arxiv.org/abs/2302.11050)\] \[[Code](https://github.com/PeterGriffinJin/Edgeformers)\]  
 Bowen Jin, Yu Zhang, **Yu Meng**, Jiawei Han.  
 International Conference on Learning Representations (**ICLR**), 2023
 
