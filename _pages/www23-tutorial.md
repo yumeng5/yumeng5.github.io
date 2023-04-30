@@ -14,14 +14,11 @@ Time: April 30, 2023 11:00 AM - 12:30 PM (CT)
 
 ## Abstract
 
-Pretrained text representations, evolving from context-free word embeddings to contextualized language models, have brought text mining into a new era: 
-By pretraining neural models on large-scale text corpora and then adapting them to task-specific data, generic linguistic features and knowledge can be effectively transferred to the target applications and remarkable performance has been achieved on many text mining tasks.
-Unfortunately, a formidable challenge exists in such a prominent pretrain-finetune paradigm: Large pretrained language models (PLMs) usually require a massive amount of training data for stable fine-tuning on downstream tasks, while human annotations in abundance can be costly to acquire.
+Textual data are ubiquitous and massive on the web: News reports, social media posts, Wikipedia articles, etc. are being created and updated online everyday. While they contain rich information and knowledge, it has remained an open challenge to effectively leverage them in text-intensive applications.
+Recent developments in pretrained language models (PLMs) have revolutionized text mining and processing: By pretraining neural architectures on large-scale text corpora obtained from the web and then transferring their representations to task-specific data, the knowledge encoded in the web-scale corpora can be effectively leveraged to significantly enhance the downstream task performance. The most common adaptation approach of PLMs is the pretrain-finetune paradigm where the PLMs are further trained on downstream task labeled data. However, the major challenge of such a paradigm is that fully-supervised fine-tuning of PLMs usually require abundant human annotations, which can be expensive to acquire in practice.
 
-In this tutorial, we introduce recent advances in pretrained text representations, as well as their applications to a wide range of text mining tasks.
-We focus on _minimally-supervised_ approaches that do not require massive human annotations, including
-(1) self-supervised text embeddings and pretrained language models that serve as the fundamentals for downstream tasks, (2) unsupervised and seed-guided methods for topic discovery from massive text corpora
-and (3) weakly-supervised methods for text classification and advanced text mining tasks.
+In this tutorial, we will introduce recent advances in pretrained text representations learned from web-scale corpora, as well as their applications to a wide range of text mining tasks.
+We focus on weakly-supervised approaches without requiring massive human annotations, including (1) pretrained language models that serve as the fundamentals for downstream tasks, (2) unsupervised and seed-guided methods for topic discovery from massive text corpora, and (3) weakly-supervised methods for text classification and advanced text mining tasks.
 
 
 ## Slides
