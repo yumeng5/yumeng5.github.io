@@ -21,7 +21,7 @@ News
 
 * \[**2023.04**\] One paper on [Few-Shot Learning](https://arxiv.org/abs/2211.03044) has been accepted by **ICML 2023**!
 
-* \[**2023.01**\] Two papers on [Metadata-Enhanced Scientific Text Classification](https://arxiv.org/abs/2302.03341) and [Unsupervised Online Story Discovery]() have been accepted by **WWW 2023**!
+* \[**2023.01**\] Two papers on [Metadata-Enhanced Scientific Text Classification](https://arxiv.org/abs/2302.03341) and [Unsupervised Online Story Discovery](https://dl.acm.org/doi/abs/10.1145/3543507.3583507) have been accepted by **WWW 2023**!
 
 * \[**2023.01**\] One paper on [Learning Text-Rich Network Representations](https://arxiv.org/abs/2302.11050) has been accepted by **ICLR 2023**!
 
