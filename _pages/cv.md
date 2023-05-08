@@ -14,7 +14,7 @@ redirect_from:
 **Yu Meng**, Martin Michalski, Jiaxin Huang, Yu Zhang, Tarek Abdelzaher, Jiawei Han.  
 International Conference on Machine Learning (**ICML**), 2023
 
-* SCStory: Self-supervised and Continual Online Story Discovery \[[PDF]()\] \[[Code]()\]  
+* SCStory: Self-supervised and Continual Online Story Discovery \[[PDF](https://dl.acm.org/doi/abs/10.1145/3543507.3583507)\] \[[Code](https://github.com/cliveyn/SCStory)\]  
 Susik Yoon, **Yu Meng**, Dongha Lee, Jiawei Han.  
 The Web Conference (**WWW**), 2023
 
