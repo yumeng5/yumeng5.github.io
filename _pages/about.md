@@ -19,6 +19,10 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 News
 ======
 
+* \[**2023.05**\] Two papers on [Language Model Pretraining on Text-Rich Network]() and [Retrieval-Enhanced Weakly-Supervised Text Classification]() have been accepted by **ACL 2023 Main Conference/Findings**!
+
+* \[**2022.04**\] Our tutorial on [Pretrained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) has been accepted by **KDD 2023**!
+
 * \[**2023.04**\] One paper on [Few-Shot Learning](https://arxiv.org/abs/2211.03044) has been accepted by **ICML 2023**!
 
 * \[**2023.01**\] Two papers on [Metadata-Enhanced Scientific Text Classification](https://arxiv.org/abs/2302.03341) and [Unsupervised Online Story Discovery](https://dl.acm.org/doi/abs/10.1145/3543507.3583507) have been accepted by **WWW 2023**!
@@ -32,17 +36,6 @@ News
 * \[**2022.09**\] One paper on [Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538) has been accepted by **NeurIPS 2022**!
 
 * \[**2022.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2206.13746) has been accepted by **KDD 2022**!
-
-* \[**2022.05**\] Our tutorial on [Adapting Pretrained Text Representations to Text Mining](https://yumeng5.github.io/kdd22-tutorial/) has been accepted by **KDD 2022**!
-
-* \[**2022.04**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2205.01845) has been accepted by **NAACL 2022**!
-
-* \[**2022.02**\] Delivered a tutorial on [Pre-Trained Language Representations and Applications to Text Mining](https://yumeng5.github.io/aaai22-tutorial/) at **AAAI 2022**.
-
-* \[**2022.01**\] My intern work at Microsoft on [Language Model Pretraining](https://arxiv.org/abs/2204.03243) has been accepted by **ICLR 2022**!
-
-* \[**2022.01**\] One paper on [Topic Discovery Using Language Models](https://arxiv.org/abs/2202.04582) has been accepted by **WWW 2022**!
-
 
 
 Education
