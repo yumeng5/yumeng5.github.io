@@ -10,6 +10,18 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective \[[Tutorial Page](https://yumeng5.github.io/kdd23-tutorial/)\]  
+**Yu Meng**, Jiaxin Huang, Yu Zhang, Yunyi Zhang, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023 _(Tutorial)_
+
+* Patton: Language Model Pretraining on Text-Rich Networks \[[PDF]()\] \[[Code]()\]  
+Bowen Jin, Wentao Zhang, Yu Zhang, **Yu Meng**, Xinyang Zhang, Qi Zhu, Jiawei Han.  
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023
+
+* ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval \[[PDF]()\] \[[Code]()\]  
+Yue Yu, Yuchen Zhuang, Rongzhi Zhang, **Yu Meng**, Jiaming Shen and Chao Zhang.  
+Findings of Annual Meeting of the Association for Computational Linguistics (**ACL-Findings**), 2023
+
 * Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning \[[PDF](https://arxiv.org/abs/2211.03044)\] \[[Code](https://github.com/yumeng5/FewGen)\]  
 **Yu Meng**, Martin Michalski, Jiaxin Huang, Yu Zhang, Tarek Abdelzaher, Jiawei Han.  
 International Conference on Machine Learning (**ICML**), 2023
