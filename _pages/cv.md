@@ -10,15 +10,19 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers \[[PDF]()\] \[[Code]()\]  
+Yu Zhang, Bowen Jin, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, **Yu Meng**, Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023
+
 * Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective \[[Tutorial Page](https://yumeng5.github.io/kdd23-tutorial/)\]  
 **Yu Meng**, Jiaxin Huang, Yu Zhang, Yunyi Zhang, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023 _(Tutorial)_
 
-* Patton: Language Model Pretraining on Text-Rich Networks \[[PDF]()\] \[[Code]()\]  
+* Patton: Language Model Pretraining on Text-Rich Networks \[[PDF](https://arxiv.org/abs/2305.12268)\] \[[Code](https://github.com/PeterGriffinJin/Patton)\]  
 Bowen Jin, Wentao Zhang, Yu Zhang, **Yu Meng**, Xinyang Zhang, Qi Zhu, Jiawei Han.  
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023
 
-* ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval \[[PDF]()\] \[[Code]()\]  
+* ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval \[[PDF](https://arxiv.org/abs/2305.10703)\] \[[Code](https://github.com/yueyu1030/ReGen)\]  
 Yue Yu, Yuchen Zhuang, Rongzhi Zhang, **Yu Meng**, Jiaming Shen and Chao Zhang.  
 Findings of Annual Meeting of the Association for Computational Linguistics (**ACL-Findings**), 2023
 
@@ -42,7 +46,7 @@ International Conference on Learning Representations (**ICLR**), 2023
 Yu Zhang, Yunyi Zhang, Martin Michalski, Yucheng Jiang, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
 
-* FineSum: Target-Oriented, Fine-Grained Opinion Summarization \[[PDF]()\] \[[Code](https://github.com/gesy17/FineSum)\]  
+* FineSum: Target-Oriented, Fine-Grained Opinion Summarization \[[PDF](https://arxiv.org/abs/2110.08845)\] \[[Code](https://github.com/gesy17/FineSum)\]  
 Suyu Ge, Jiaxin Huang, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
 
