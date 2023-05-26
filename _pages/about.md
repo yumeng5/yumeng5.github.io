@@ -14,12 +14,12 @@ I am especially passionate about developing self-supervised, unsupervised and we
 
 I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
-**I am on the job market for faculty positions.**
-
 News
 ======
 
-* \[**2023.05**\] Two papers on [Language Model Pretraining on Text-Rich Network]() and [Retrieval-Enhanced Weakly-Supervised Text Classification]() have been accepted by **ACL 2023 Main Conference/Findings**!
+* \[**2022.05**\] One paper on [Weakly Supervised Scientific Text Classification]() has been accepted by **KDD 2023**!
+
+* \[**2023.05**\] Two papers on [Language Model Pretraining on Text-Rich Network](https://arxiv.org/abs/2305.12268) and [Retrieval-Enhanced Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.10703) have been accepted by **ACL 2023 Main Conference/Findings**!
 
 * \[**2022.04**\] Our tutorial on [Pretrained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) has been accepted by **KDD 2023**!
 
@@ -31,11 +31,9 @@ News
 
 * \[**2022.12**\] Our tutorial on [Turning Web-Scale Texts to Knowledge: Transferring Pretrained Representations to Text Mining Applications](https://yumeng5.github.io/www23-tutorial/) has been accepted by **WWW 2023**!
 
-* \[**2022.10**\] Two papers on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) and Opion Summary have been accepted by **WSDM 2023**!
+* \[**2022.10**\] Two papers on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) and [Opion Summary](https://arxiv.org/abs/2110.08845) have been accepted by **WSDM 2023**!
 
 * \[**2022.09**\] One paper on [Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538) has been accepted by **NeurIPS 2022**!
-
-* \[**2022.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2206.13746) has been accepted by **KDD 2022**!
 
 
 Education
