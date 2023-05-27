@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois at Urbana-Champaign (UIUC). I obtained my M.S. degree and B.S. degree also at UIUC, in Computer Science and Computer Engineering respectively.
+I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. degree and B.S. degree also at UIUC, in Computer Science and Computer Engineering respectively.
 
 I am especially passionate about developing self-supervised, unsupervised and weakly-supervised (i.e., leveraging minimal human supervision) text mining techniques for organizing and exploring text data. As such, I work at the intersection of data mining, natural language processing and applied machine learning. In the past, I have worked on text representation learning ([ICLR'22](https://arxiv.org/abs/2204.03243), [NeurIPS'21](https://arxiv.org/abs/2102.08473), [NeurIPS'19](https://arxiv.org/abs/1911.01196)), few-shot and zero-shot learning ([ICML'23](https://arxiv.org/abs/2211.03044), [NeurIPS'22](https://arxiv.org/abs/2202.04538)),  topic discovery ([WWW'22](https://arxiv.org/abs/2202.04582), [KDD'20](https://arxiv.org/abs/2007.09536), [WWW'20](https://arxiv.org/abs/1908.07162)), weakly-supervised text classification ([EMNLP'20](https://arxiv.org/abs/2010.07245), [AAAI'19](https://arxiv.org/abs/1812.11270), [CIKM'18](https://arxiv.org/abs/1809.01478)) and distantly-supervised named entity recognition ([EMNLP'21](https://arxiv.org/abs/2109.05003)). In the long run, my research is dedicated to mining structured knowledge from large-scale text data in label-efficient ways. 
 
@@ -17,11 +17,11 @@ I am grateful for being supported by the [Google PhD fellowship](https://researc
 News
 ======
 
-* \[**2022.05**\] One paper on [Weakly Supervised Scientific Text Classification]() has been accepted by **KDD 2023**!
+* \[**2023.05**\] One paper on [Weakly Supervised Scientific Text Classification]() has been accepted by **KDD 2023**!
 
 * \[**2023.05**\] Two papers on [Language Model Pretraining on Text-Rich Network](https://arxiv.org/abs/2305.12268) and [Retrieval-Enhanced Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.10703) have been accepted by **ACL 2023 Main Conference/Findings**!
 
-* \[**2022.04**\] Our tutorial on [Pretrained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) has been accepted by **KDD 2023**!
+* \[**2023.04**\] Our tutorial on [Pretrained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) has been accepted by **KDD 2023**!
 
 * \[**2023.04**\] One paper on [Few-Shot Learning](https://arxiv.org/abs/2211.03044) has been accepted by **ICML 2023**!
 
@@ -38,13 +38,13 @@ News
 
 Education
 ======
-* Ph.D. (Current) in Computer Science, University of Illinois at Urbana-Champaign  
+* Ph.D. (Current) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
-* M.S. (2019) in Computer Science, University of Illinois at Urbana-Champaign  
+* M.S. (2019) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/), \[[Thesis](https://www.ideals.illinois.edu/handle/2142/104867)\]
 
-* B.S. (2017) in Computer Engineering, University of Illinois at Urbana-Champaign  
+* B.S. (2017) in Computer Engineering, University of Illinois Urbana-Champaign  
 Graduated with Highest Honor & [Bronze Tablet](https://digital.library.illinois.edu/items/592ebe50-1be8-0136-4cfa-0050569601ca-5#?c=0&m=0&s=0&cv=0&r=0&xywh=-3461%2C0%2C12837%2C5932)  
 Advisor: Prof. [Sayan Mitra](http://mitras.ece.illinois.edu/)
 
