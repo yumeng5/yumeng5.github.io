@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. degree and B.S. degree also at UIUC, in Computer Science and Computer Engineering respectively.
+I am a Ph.D. candidate in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/).
 
 I am especially passionate about developing self-supervised, unsupervised and weakly-supervised (i.e., leveraging minimal human supervision) text mining techniques for organizing and exploring text data. As such, I work at the intersection of data mining, natural language processing and applied machine learning. In the past, I have worked on text representation learning ([ICLR'22](https://arxiv.org/abs/2204.03243), [NeurIPS'21](https://arxiv.org/abs/2102.08473), [NeurIPS'19](https://arxiv.org/abs/1911.01196)), few-shot and zero-shot learning ([ICML'23](https://arxiv.org/abs/2211.03044), [NeurIPS'22](https://arxiv.org/abs/2202.04538)),  topic discovery ([WWW'22](https://arxiv.org/abs/2202.04582), [KDD'20](https://arxiv.org/abs/2007.09536), [WWW'20](https://arxiv.org/abs/1908.07162)), weakly-supervised text classification ([EMNLP'20](https://arxiv.org/abs/2010.07245), [AAAI'19](https://arxiv.org/abs/1812.11270), [CIKM'18](https://arxiv.org/abs/1809.01478)) and distantly-supervised named entity recognition ([EMNLP'21](https://arxiv.org/abs/2109.05003)). In the long run, my research is dedicated to mining structured knowledge from large-scale text data in label-efficient ways. 
 
@@ -38,7 +38,7 @@ News
 
 Education
 ======
-* Ph.D. (Current) in Computer Science, University of Illinois Urbana-Champaign  
+* Ph.D. (Expected 2023) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
 * M.S. (2019) in Computer Science, University of Illinois Urbana-Champaign  
