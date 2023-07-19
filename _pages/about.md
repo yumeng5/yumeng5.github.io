@@ -14,7 +14,7 @@ I am especially passionate about developing self-supervised, unsupervised and we
 
 I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
-<span style="color:blue">I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024</span>. I am looking for PhD students! Please send me an email with your CV and transcripts if you are interested in working with me!
+<span style="color:blue">**I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024. I am looking for PhD students! Please send me an email with your CV and transcripts if you are interested in working with me!**</span>
 
 News
 ======
