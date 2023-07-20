@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/).
-
-I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
+I am a Ph.D. candidate in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
 <span style="color:blue">**I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024. I am looking for PhD students! Please send me an email with your CV and transcripts if you are interested in working with me!**</span>
 
