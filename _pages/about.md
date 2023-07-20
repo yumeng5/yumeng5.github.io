@@ -10,11 +10,27 @@ redirect_from:
 
 I am a Ph.D. candidate in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/).
 
-I am especially passionate about developing self-supervised, unsupervised and weakly-supervised (i.e., leveraging minimal human supervision) text mining techniques for organizing and exploring text data. As such, I work at the intersection of data mining, natural language processing and applied machine learning. In the past, I have worked on text representation learning ([ICLR'22](https://arxiv.org/abs/2204.03243), [NeurIPS'21](https://arxiv.org/abs/2102.08473), [NeurIPS'19](https://arxiv.org/abs/1911.01196)), few-shot and zero-shot learning ([ICML'23](https://arxiv.org/abs/2211.03044), [NeurIPS'22](https://arxiv.org/abs/2202.04538)),  topic discovery ([WWW'22](https://arxiv.org/abs/2202.04582), [KDD'20](https://arxiv.org/abs/2007.09536), [WWW'20](https://arxiv.org/abs/1908.07162)), weakly-supervised text classification ([EMNLP'20](https://arxiv.org/abs/2010.07245), [AAAI'19](https://arxiv.org/abs/1812.11270), [CIKM'18](https://arxiv.org/abs/1809.01478)) and distantly-supervised named entity recognition ([EMNLP'21](https://arxiv.org/abs/2109.05003)). In the long run, my research is dedicated to mining structured knowledge from large-scale text data in label-efficient ways. 
-
 I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
 <span style="color:blue">**I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024. I am looking for PhD students! Please send me an email with your CV and transcripts if you are interested in working with me!**</span>
+
+Research
+======
+
+I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. I am especially passionate about the following research directions (with some past work as examples):  
+* **Representation Learning in NLP**:
+  * [arXiv'23 Meng et al.] [Representation Deficiency in Masked Language Modeling](https://arxiv.org/abs/2302.02060)
+  * [ICLR'22 Meng et al.] [Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators](https://arxiv.org/abs/2204.03243)
+  * [NeurIPS'21 Meng et al.] [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/abs/2102.08473)
+  * [NeurIPS'19 Meng et al.] [Spherical Text Embedding](https://arxiv.org/abs/1911.01196)
+* **Large Language Models for Few-Shot and Zero-Shot Learning**:
+  * [ICML'23 Meng et al.] [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://arxiv.org/abs/2211.03044)
+  * [NeurIPS'22 Meng et al.] [Generating Training Data with Language Models: Towards Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538)
+* **Text Mining Paradigms and Applications**:
+  * [WWW'22 Meng et al.] [Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations](https://arxiv.org/abs/2202.04582)
+  * [EMNLP'20 Meng et al.] [Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://arxiv.org/abs/2010.07245)
+  * [CIKM'18 Meng et al.] [Weakly-Supervised Neural Text Classification](https://arxiv.org/abs/1809.01478)
+
 
 News
 ======
