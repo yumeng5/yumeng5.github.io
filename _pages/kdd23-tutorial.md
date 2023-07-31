@@ -61,4 +61,12 @@ and (4) weakly-supervised methods for text classification and advanced text mini
 <br/>
 <br/>
 
+<img align="left" img src="/images/Yunyi_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received the Yunni and Maxine Pao Memorial Fellowship (2022) and WWW Best Poster Award Honorable Mention (2018).
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img align="left" img src="/images/Jiawei_Han.jpg" alt="Jiawei Han" style="width: 200px;margin-right:50px;"/>**Jiawei Han**, Michael Aiken Chair Professor, Computer Science, UIUC. His research areas encompass data mining, text mining, data warehousing and information network analysis, with over 800 research publications. He is Fellow of ACM, Fellow of IEEE, and has received numerous prominent awards, including ACM SIGKDD Innovation Award (2004) and IEEE Computer Society W. Wallace McDowell Award (2009). He has delivered 50+ conference tutorials or keynote speeches.
