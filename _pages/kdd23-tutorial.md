@@ -14,26 +14,29 @@ Time: Aug 9, 2023 10:00 AM - 1:00 PM (PDT)
 
 ## Abstract
 
-Pretrained text representations, evolving from context-free word embeddings to contextualized language models, have brought text mining into a new era: 
-By pretraining neural models on large-scale text corpora and then adapting them to task-specific data, generic linguistic features and knowledge can be effectively transferred to the target applications and remarkable performance has been achieved on many text mining tasks.
-Unfortunately, a formidable challenge exists in such a prominent pretrain-finetune paradigm: Large pretrained language models (PLMs) usually require a massive amount of training data for stable fine-tuning on downstream tasks, while human annotations in abundance can be costly to acquire.
+Language representations pretrained on general-domain corpora and adapted to downstream task data have achieved enormous success in building natural language understanding (NLU) systems.
+While the standard supervised fine-tuning of pretrained language models (PLMs) has proven an effective approach for superior NLU performance, it often necessitates a large quantity of costly human-annotated training data.
+For example, the enormous success of ChatGPT and GPT-4 can be largely credited to their supervised fine-tuning with massive manually-labeled prompt-response training pairs.
+Unfortunately, obtaining large-scale human annotations is in general infeasible for most practitioners.
+To broaden the applicability of PLMs to various tasks and settings, _weakly-supervised learning_ offers a promising direction to minimize the annotation requirements for PLM adaptions.
 
-In this tutorial, we introduce recent advances in pretrained text representations, as well as their applications to a wide range of text mining tasks.
-We focus on _minimally-supervised_ approaches that do not require massive human annotations, including
-(1) self-supervised text embeddings and pretrained language models that serve as the fundamentals for downstream tasks, 
-(2) unsupervised and distantly-supervised methods for fundamental text mining applications,
-(3) unsupervised and seed-guided methods for topic discovery from massive text corpora
-and (4) weakly-supervised methods for text classification and advanced text mining tasks.
+In this tutorial, we cover the recent advancements in pretraining language models and adaptation methods for a wide range of NLU tasks.
+Our tutorial has a particular focus on _weakly-supervised_ approaches that do not require massive human annotations.
+We will introduce the following topics in this tutorial: 
+1. pretraining language representation models that serve as the fundamentals for various NLU tasks;
+2. extracting entities and hierarchical relations from unlabeled texts;
+3. discovering topical structures from massive text corpora for text organization;
+4. understanding documents and sentences with weakly-supervised techniques.
 
 
 ## Slides
 
-* Introduction \[[Slides](/files/kdd22-tutorial/Part0.pdf)\]
-* Part I: Pretrained Language Models \[[Slides](/files/kdd22-tutorial/Part1.pdf)\]
-* Part II: Revisiting Text Mining Fundamentals with Pretrained Language Models \[[Slides](/files/kdd22-tutorial/Part2.pdf)\]
-* Part III: Embedding-Driven Topic Discovery \[[Slides](/files/kdd22-tutorial/Part3.pdf)\]
-* Part IV: Weakly-Supervised Text Classification \[[Slides](/files/kdd22-tutorial/Part4.pdf)\]
-* Part V: Advanced Text Mining Applications Empowered by Pretrained Embeddings \[[Slides](/files/kdd22-tutorial/Part5.pdf)\]
+* Introduction \[[Slides](/files/kdd23-tutorial/Part0.pdf)\]
+* Part I: Pretrained Language Models \[[Slides](/files/kdd23-tutorial/Part1.pdf)\]
+* Part II: Revisiting Text Mining Fundamentals with Pretrained Language Models \[[Slides](/files/kdd23-tutorial/Part2.pdf)\]
+* Part III: Embedding-Driven Topic Discovery \[[Slides](/files/kdd23-tutorial/Part3.pdf)\]
+* Part IV: Weakly-Supervised Text Classification \[[Slides](/files/kdd23-tutorial/Part4.pdf)\]
+* Part V: Advanced Text Mining Applications Empowered by Pretrained Embeddings \[[Slides](/files/kdd23-tutorial/Part5.pdf)\]
 
 ## Presenters
 
@@ -53,7 +56,7 @@ and (4) weakly-supervised methods for text classification and advanced text mini
 <br/>
 <br/>
 
-<img align="left" img src="/images/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received the Yunni and Maxine Pao Memorial Fellowship (2022) and WWW Best Poster Award Honorable Mention (2018).
+<img align="left" img src="/images/Yu_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yu Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received the Dissertation Completion Fellowship (2023), the Yunni and Maxine Pao Memorial Fellowship (2022), and WWW Best Poster Award Honorable Mention (2018).
 
 <br/>
 <br/>
@@ -61,7 +64,7 @@ and (4) weakly-supervised methods for text classification and advanced text mini
 <br/>
 <br/>
 
-<img align="left" img src="/images/Yunyi_Zhang.png" alt="Yu Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining with structural information. He received the Yunni and Maxine Pao Memorial Fellowship (2022) and WWW Best Poster Award Honorable Mention (2018).
+<img align="left" img src="/images/Yunyi_Zhang.jpg" alt="Yunyi Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining, text classification, and taxonomy construction.
 
 <br/>
 <br/>
