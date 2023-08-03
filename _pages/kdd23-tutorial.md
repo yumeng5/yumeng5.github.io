@@ -60,7 +60,6 @@ We will introduce the following topics in this tutorial:
 
 <br/>
 <br/>
-<br/>
 
 
 <img align="left" img src="/images/Yunyi_Zhang.jpg" alt="Yunyi Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining, text classification, and taxonomy construction.
