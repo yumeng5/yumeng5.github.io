@@ -32,11 +32,11 @@ We will introduce the following topics in this tutorial:
 ## Slides
 
 * Introduction \[[Slides](/files/kdd23-tutorial/Part0.pdf)\]
-* Part I: Pretrained Language Models \[[Slides](/files/kdd23-tutorial/Part1.pdf)\]
-* Part II: Revisiting Text Mining Fundamentals with Pretrained Language Models \[[Slides](/files/kdd23-tutorial/Part2.pdf)\]
-* Part III: Embedding-Driven Topic Discovery \[[Slides](/files/kdd23-tutorial/Part3.pdf)\]
-* Part IV: Weakly-Supervised Text Classification \[[Slides](/files/kdd23-tutorial/Part4.pdf)\]
-* Part V: Advanced Text Mining Applications Empowered by Pretrained Embeddings \[[Slides](/files/kdd23-tutorial/Part5.pdf)\]
+* Part I: Language Foundation Models \[[Slides](/files/kdd23-tutorial/Part1.pdf)\]
+* Part II: Embedding-Driven Topic Discovery \[[Slides](/files/kdd23-tutorial/Part2.pdf)\]
+* Part III: Weakly-Supervised Text Classification \[[Slides](/files/kdd23-tutorial/Part3.pdf)\]
+* Part IV: Language Models for Knowledge Base Construction \[[Slides](/files/kdd23-tutorial/Part4.pdf)\]
+* Part V: Advanced Text Mining Applications \[[Slides](/files/kdd23-tutorial/Part5.pdf)\]
 
 ## Presenters
 
