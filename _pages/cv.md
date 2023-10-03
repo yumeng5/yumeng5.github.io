@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers \[[PDF]()\] \[[Code]()\]  
+* Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias \[[PDF](https://arxiv.org/abs/2306.15895)\] \[[Code](https://github.com/yueyu1030/attrprompt)\]  
+Yue Yu, Yuchen Zhuang, Jieyu Zhang, **Yu Meng**, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.  
+Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track (**NeurIPS Benchmark**), 2023
+
+* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers \[[PDF](https://arxiv.org/abs/2306.14003)\] \[[Code](https://github.com/yuzhimanhua/FUTEX)\]  
 Yu Zhang, Bowen Jin, Xiusi Chen, Yanzhen Shen, Yunyi Zhang, **Yu Meng**, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023
 
