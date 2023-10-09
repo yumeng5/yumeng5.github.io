@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at University of Illinois Urbana-Champaign (UIUC). My advisor is [Jiawei Han](http://hanj.cs.illinois.edu/). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
+I obtained my Ph.D. from University of Illinois Urbana-Champaign (UIUC). My advisor was [Jiawei Han](http://hanj.cs.illinois.edu/). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
 <span style="color:blue">**I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024. I am looking for PhD students! Please send me an email with your CV and transcripts if you are interested in working with me (I will read all emails but I do apologize for not being able to respond to each of them)!**</span>
 
@@ -33,7 +33,11 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 News
 ======
 
-* \[**2023.05**\] One paper on [Weakly Supervised Scientific Text Classification]() has been accepted by **KDD 2023**!
+* \[**2023.10**\] One paper on [Weakly Supervised Text Classification](https://arxiv.org/abs/2305.13723) has been accepted by **EMNLP 2023**!
+
+* \[**2023.09**\] One paper on [Language Models as Training Data Generators](https://arxiv.org/abs/2306.15895) has been accepted by **NeurIPS 2023 Datasets and Benchmark Track**!
+
+* \[**2023.05**\] One paper on [Weakly Supervised Scientific Text Classification](https://arxiv.org/abs/2306.14003) has been accepted by **KDD 2023**!
 
 * \[**2023.05**\] Two papers on [Language Model Pretraining on Text-Rich Network](https://arxiv.org/abs/2305.12268) and [Retrieval-Enhanced Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.10703) have been accepted by **ACL 2023 Main Conference/Findings**!
 
@@ -47,14 +51,10 @@ News
 
 * \[**2022.12**\] Our tutorial on [Turning Web-Scale Texts to Knowledge: Transferring Pretrained Representations to Text Mining Applications](https://yumeng5.github.io/www23-tutorial/) has been accepted by **WWW 2023**!
 
-* \[**2022.10**\] Two papers on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) and [Opion Summary](https://arxiv.org/abs/2110.08845) have been accepted by **WSDM 2023**!
-
-* \[**2022.09**\] One paper on [Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538) has been accepted by **NeurIPS 2022**!
-
 
 Education
 ======
-* Ph.D. (Expected 2023) in Computer Science, University of Illinois Urbana-Champaign  
+* Ph.D. (2023) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
 * M.S. (2019) in Computer Science, University of Illinois Urbana-Champaign  
