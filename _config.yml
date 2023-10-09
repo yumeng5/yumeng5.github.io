@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yu Meng"
 title_separator          : "-"
 name                     : &name "Yu Meng"
-description              : &description "Ph.D. Student"
+description              : &description "Assistant Professor"
 url                      : https://yumeng5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yumeng5/yumeng5.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yu Meng (孟瑜)"
   avatar           : "Yu_Meng.jpg"
-  bio              : "Ph.D. Candidate @ UIUC"
+  bio              : "Assistant Professor @ UVA"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : # ""
