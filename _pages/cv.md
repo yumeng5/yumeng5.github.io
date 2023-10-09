@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+# 2023
+
+* PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training \[[PDF](https://arxiv.org/abs/2305.13723)\] \[[Code]()\]  
+Yunyi Zhang, Minhao Jiang, **Yu Meng**, Yu Zhang, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023
+
 * Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias \[[PDF](https://arxiv.org/abs/2306.15895)\] \[[Code](https://github.com/yueyu1030/attrprompt)\]  
 Yue Yu, Yuchen Zhuang, Jieyu Zhang, **Yu Meng**, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.  
 Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track (**NeurIPS Benchmark**), 2023
@@ -58,6 +64,8 @@ ACM International Conference on Web Search and Data Mining (**WSDM**), 2023
 **Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 The Web Conference (**WWW**), 2023 _(Tutorial)_
 
+# 2022
+
 * Generating Training Data with Language Models: Towards Zero-Shot Language Understanding \[[PDF](https://arxiv.org/abs/2202.04538)\] \[[Code](https://github.com/yumeng5/SuperGen)\]  
 **Yu Meng**, Jiaxin Huang, Yu Zhang, Jiawei Han.  
 Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2022
@@ -90,6 +98,8 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2022 _(Tutorial)_
 Yu Zhang, Shweta Garg, **Yu Meng**, Xiusi Chen, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2022
 
+# 2021
+
 * Automated Taxonomy Discovery and Exploration \[[Tutorial Page](https://jmshen1994.github.io/2021/09/29/ICDM21-Tutorial.html)\]  
 Jiaming Shen, Xiaotao Gu, **Yu Meng**, Jiawei Han.  
 IEEE International Conference on Data Mining (**ICDM**), 2021 _(Tutorial)_
@@ -117,6 +127,8 @@ Conference of the North American Chapter of the Association for Computational Li
 * Hierarchical Metadata-Aware Document Categorization under Weak Supervision \[[PDF](https://arxiv.org/abs/2010.13556)\] \[[Code](https://github.com/yuzhimanhua/HIMECat)\]  
 Yu Zhang, Xiusi Chen, **Yu Meng**, Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2021
+
+# 2020
 
 * Text Classification Using Label Names Only: A Language Model Self-Training Approach \[[PDF](https://arxiv.org/abs/2010.07245)\] \[[Code](https://github.com/yumeng5/LOTClass)\]  
 **Yu Meng**, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han.  
@@ -161,6 +173,8 @@ ACM International Conference on Web Search and Data Mining (**WSDM**), 2020
 * Unsupervised Word Embedding Learning by Incorporating Local and Global Contexts \[[PDF](https://www.frontiersin.org/articles/10.3389/fdata.2020.00009/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=517899)\]  
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Jiawei Han.  
 Frontiers in Big Data, 2020
+
+# 2019 and Before
 
 * Spherical Text Embedding \[[PDF](https://arxiv.org/abs/1911.01196)\] \[[Slides](/files/Spherical-Text-Embedding.pdf)\] \[[Poster](/files/Spherical-Text-Embedding-poster.pdf)\] \[[Code](https://github.com/yumeng5/Spherical-Text-Embedding)\]  
 **Yu Meng**, Jiaxin Huang, Guangyuan Wang, Chao Zhang, Honglei Zhuang, Lance Kaplan, Jiawei Han.  
