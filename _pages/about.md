@@ -10,7 +10,7 @@ redirect_from:
 
 I obtained my Ph.D. from University of Illinois Urbana-Champaign (UIUC) where I worked with [Jiawei Han](http://hanj.cs.illinois.edu/). Currently, I am visiting Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/). I am grateful for being supported by the [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) since 2021.
 
-<span style="color:blue">**I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024. I am looking for PhD students! Please send me an email with your CV and transcripts if you are interested in working with me (I will read all emails but I do apologize for not being able to respond to each of them)!**</span>
+<span style="color:blue">**I will join the Computer Science Department at the University of Virginia (UVA) as an assistant professor in January 2024. I am looking for PhD students and interns! Please fill out [this form](https://forms.gle/8DCBEuVbTFw4ARm5A) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them!**</span>
 
 Research
 ======
