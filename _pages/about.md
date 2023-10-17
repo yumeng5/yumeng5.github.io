@@ -15,7 +15,7 @@ I obtained my Ph.D. from University of Illinois Urbana-Champaign (UIUC) where I 
 Research
 ======
 
-I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. I am especially passionate about the following research directions (with some past work as examples):  
+I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. Nowadays, I am especially passionate about the developments in large language models (LLMs). Some of my past papers are as follows:  
 * **Representation Learning in NLP**:
   * [arXiv'23 Meng et al.] [Representation Deficiency in Masked Language Modeling](https://arxiv.org/abs/2302.02060)
   * [ICLR'22 Meng et al.] [Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators](https://arxiv.org/abs/2204.03243)
