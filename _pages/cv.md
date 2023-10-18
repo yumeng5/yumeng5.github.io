@@ -12,7 +12,7 @@ redirect_from:
 
 # 2023
 
-* PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training \[[PDF](https://arxiv.org/abs/2305.13723)\] \[[Code]()\]  
+* PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training \[[PDF](https://arxiv.org/abs/2305.13723)\] \[[Code](https://github.com/yzhan238/PIEClass)\]  
 Yunyi Zhang, Minhao Jiang, **Yu Meng**, Yu Zhang, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023
 
