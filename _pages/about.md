@@ -16,7 +16,7 @@ Research
 ======
 
 I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. Nowadays, I am especially passionate about the developments in large language models (LLMs). Some of my past papers are as follows:  
-* **Representation Learning in NLP**:
+* **Pretraining and Representation Learning for NLP**:
   * [arXiv'23 Meng et al.] [Representation Deficiency in Masked Language Modeling](https://arxiv.org/abs/2302.02060)
   * [ICLR'22 Meng et al.] [Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators](https://arxiv.org/abs/2204.03243)
   * [NeurIPS'21 Meng et al.] [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/abs/2102.08473)
