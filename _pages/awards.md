@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}  
 
-* [Google PhD fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) (2021 -- 2023)
+* [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) (2021 -- 2023)
 * [Yunni and Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (2023)
 * [Data Mining Research Excellence Awards](http://dm1.cs.uiuc.edu/awards.html) (Gold in 2019, 2020, 2021; Silver in 2022)
 * NeurIPS Top Reviewer ([2023](https://neurips.cc/Conferences/2023/ProgramCommittee), [2022](https://neurips.cc/Conferences/2022/ProgramCommittee))
