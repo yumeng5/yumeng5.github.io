@@ -15,4 +15,4 @@ redirect_from:
 * NeurIPS Top Reviewer ([2023](https://neurips.cc/Conferences/2023/ProgramCommittee), [2022](https://neurips.cc/Conferences/2022/ProgramCommittee))
 * ICML Outstanding Reviewer ([2022](https://icml.cc/Conferences/2022/Reviewers))
 * [Bronze Tablet](https://digital.library.illinois.edu/items/592ebe50-1be8-0136-4cfa-0050569601ca-5#?c=0&m=0&s=0&cv=0&r=0&xywh=-9302%2C0%2C24518%2C5931) (the highest University Honor) (2017)
-* Daniel W. and Carol A. Dobberpuhl Student Award (2016)
+* [Daniel W. and Carol A. Dobberpuhl Student Award](https://ece.illinois.edu/academics/ugrad/scholarships-and-awards/awards/dobberpuhl) (2016)
