@@ -67,4 +67,4 @@ Contact
 ======
 * Email: yumeng5\[at\]illinois\[dot\]edu
 
-* Office: ~~Room 1113, Thomas M. Siebel Center, 201 N. Goodwin Avenue, Urbana, IL 61801~~ TBD
+* Office: Rice Hall 408, 85 Engineer's Way, Charlottesville, Virginia 22093
