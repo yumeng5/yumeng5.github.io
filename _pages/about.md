@@ -67,4 +67,4 @@ Contact
 ======
 * Email: yumeng5\[at\]virginia\[dot\]edu
 
-* Office: Rice Hall 408, 85 Engineer's Way, Charlottesville, Virginia 22094
+* Office: Rice Hall 408, 85 Engineer's Way, Charlottesville, Virginia 22093
