@@ -17,8 +17,9 @@ table {
 
 th, td {
   padding: 15px;
-  text-align: middle;
-  border-bottom: 1px solid #ddd;
+  text-align: left;
+  border-bottom: 1px solid $light-gray;
+  border-right: 1px solid $light-gray;
 }
 
 th {
@@ -43,7 +44,6 @@ th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
-  border-right: 1px solid $light-gray;
 }
 
 td {
