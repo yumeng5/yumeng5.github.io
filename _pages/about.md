@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined the Computer Science (CS) department at the University of Virginia (UVA) in 2024 as an assistant professor (tenure-track). I earned my Ph.D. from University of Illinois Urbana-Champaign (UIUC) where I worked with [Jiawei Han](http://hanj.cs.illinois.edu/) and spent time as a visiting researcher at the Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/). 
+I joined the Computer Science (CS) department at the University of Virginia (UVA) in 2024 as an assistant professor (tenure-track). Previously, I earned my Ph.D. from University of Illinois Urbana-Champaign (UIUC) where I worked with [Jiawei Han](http://hanj.cs.illinois.edu/) and spent time as a visiting researcher at the Princeton NLP Group, working with [Danqi Chen](https://www.cs.princeton.edu/~danqic/). 
 
 <span style="color:blue">**I am looking for self-motivated PhD students and interns! Please fill out [this form](https://forms.gle/8DCBEuVbTFw4ARm5A) if you are interested in working with me. After completing the form, you are also welcome to reach out via email. I will read all submitted forms and emails but I do apologize for not being able to respond to each of them!**</span>
 
@@ -18,7 +18,7 @@ Research
 
 I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. Nowadays, I am especially passionate about the developments in large language models (LLMs). Some of my past papers are as follows:  
 * **Pretraining and Representation Learning for NLP**:
-  * [arXiv'23 Meng et al.] [Representation Deficiency in Masked Language Modeling](https://arxiv.org/abs/2302.02060)
+  * [ICLR'24 Meng et al.] [Representation Deficiency in Masked Language Modeling](https://arxiv.org/abs/2302.02060)
   * [ICLR'22 Meng et al.] [Pretraining Text Encoders with Adversarial Mixture of Training Signal Generators](https://arxiv.org/abs/2204.03243)
   * [NeurIPS'21 Meng et al.] [COCO-LM: Correcting and Contrasting Text Sequences for Language Model Pretraining](https://arxiv.org/abs/2102.08473)
   * [NeurIPS'19 Meng et al.] [Spherical Text Embedding](https://arxiv.org/abs/1911.01196)
@@ -33,6 +33,7 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 
 News
 ======
+* \[**2024.01**\] Two papers on [Masked Language Modeling](https://arxiv.org/abs/2302.02060) and [Language Model Evaluation](https://arxiv.org/abs/2310.07641) have been accepted by **ICLR 2024**!
 
 * \[**2023.10**\] One paper on [Weakly Supervised Text Classification](https://arxiv.org/abs/2305.13723) has been accepted by **EMNLP 2023**!
 
@@ -45,12 +46,6 @@ News
 * \[**2023.04**\] Our tutorial on [Pretrained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) has been accepted by **KDD 2023**!
 
 * \[**2023.04**\] One paper on [Few-Shot Learning](https://arxiv.org/abs/2211.03044) has been accepted by **ICML 2023**!
-
-* \[**2023.01**\] Two papers on [Metadata-Enhanced Scientific Text Classification](https://arxiv.org/abs/2302.03341) and [Unsupervised Online Story Discovery](https://dl.acm.org/doi/abs/10.1145/3543507.3583507) have been accepted by **WWW 2023**!
-
-* \[**2023.01**\] One paper on [Learning Text-Rich Network Representations](https://arxiv.org/abs/2302.11050) has been accepted by **ICLR 2023**!
-
-* \[**2022.12**\] Our tutorial on [Turning Web-Scale Texts to Knowledge: Transferring Pretrained Representations to Text Mining Applications](https://yumeng5.github.io/www23-tutorial/) has been accepted by **WWW 2023**!
 
 
 Education
