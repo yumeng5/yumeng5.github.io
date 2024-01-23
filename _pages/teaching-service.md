@@ -15,8 +15,8 @@ author_profile: true
 # Service
 
 ## Area Chair 
-* **ICML** (2024)
 * **COLM** (2024)
+* **ICML** (2024)
 
 ## Reviewer
 
