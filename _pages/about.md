@@ -33,6 +33,8 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 
 News
 ======
+* \[**2024.01**\] Serving as an Area Chair for **ICML 2024** and **COLM 2024**.
+
 * \[**2024.01**\] Two papers on [Masked Language Modeling](https://arxiv.org/abs/2302.02060) and [Language Model Evaluation](https://arxiv.org/abs/2310.07641) have been accepted by **ICLR 2024**!
 
 * \[**2023.10**\] One paper on [Weakly Supervised Text Classification](https://arxiv.org/abs/2305.13723) has been accepted by **EMNLP 2023**!
