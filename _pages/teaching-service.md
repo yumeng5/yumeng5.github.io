@@ -19,6 +19,8 @@ author_profile: true
 * **COLM** (2024)
 
 ## Reviewer
+
+### Conference
 * **ACL** (2021-2023)
 * **COLING** (2020)
 * **EMNLP** (2021-2023)
@@ -28,3 +30,9 @@ author_profile: true
 * **NAACL** (2022)
 * **NeurIPS** (2021-2023)
 * **WWW** (2024)
+
+### Journal
+* TKDD
+* TKDE
+* TNNLS
+* TPAMI
