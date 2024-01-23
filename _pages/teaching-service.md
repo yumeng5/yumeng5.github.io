@@ -32,7 +32,7 @@ author_profile: true
 * **WWW** (2024)
 
 ### Journal
-* TKDD
-* TKDE
-* TNNLS
-* TPAMI
+* **TKDD**
+* **TKDE**
+* **TNNLS**
+* **TPAMI**
