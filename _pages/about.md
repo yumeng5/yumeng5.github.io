@@ -25,8 +25,8 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 * **Large Language Models for Few-Shot and Zero-Shot Learning**:
   * [ICML'23 Meng et al.] [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://arxiv.org/abs/2211.03044)
   * [NeurIPS'22 Meng et al.] [Generating Training Data with Language Models: Towards Zero-Shot Language Understanding](https://arxiv.org/abs/2202.04538)
-* **Text Mining Paradigms and Applications**:
-  * [WWW'22 Meng et al.] [Topic Discovery via Latent Space Clustering of Pretrained Language Model Representations](https://arxiv.org/abs/2202.04582)
+* **Learning from Weak Supervision**:
+  * [EMNLP'21 Meng et al.] [Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training](https://arxiv.org/abs/2109.05003)
   * [EMNLP'20 Meng et al.] [Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://arxiv.org/abs/2010.07245)
   * [CIKM'18 Meng et al.] [Weakly-Supervised Neural Text Classification](https://arxiv.org/abs/1809.01478)
 
