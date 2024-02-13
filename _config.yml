@@ -307,5 +307,3 @@ compress_html:
   ignore:
     envs: development
 
-posts:
-    excerpt_separator: <!--excerptEnd-->
