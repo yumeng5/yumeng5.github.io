@@ -306,3 +306,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+posts:
+    excerpt_separator: <!--excerptEnd-->
