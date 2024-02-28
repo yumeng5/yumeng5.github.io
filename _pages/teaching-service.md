@@ -14,9 +14,14 @@ author_profile: true
 
 # Service
 
-## Area Chair 
+## Area Chair/Action Editor
+
+### Conference
 * **COLM** (2024)
 * **ICML** (2024)
+
+### Journal
+* **TMLR**
 
 ## Reviewer
 
