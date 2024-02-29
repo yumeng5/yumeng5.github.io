@@ -14,18 +14,14 @@ author_profile: true
 
 # Service
 
-## Area Chair/Action Editor
-
-### Conference
+## Conference Area Chair
 * **COLM** (2024)
 * **ICML** (2024)
 
-### Journal
+## Journal Action Editor
 * **TMLR**
 
-## Reviewer
-
-### Conference
+## Conference Reviewer
 * **ACL** (2021-2023)
 * **COLING** (2020)
 * **EMNLP** (2021-2023)
@@ -36,7 +32,7 @@ author_profile: true
 * **NeurIPS** (2021-2023)
 * **WWW** (2024)
 
-### Journal
+## Journal Reviewer
 * **TKDD**
 * **TKDE**
 * **TNNLS**
