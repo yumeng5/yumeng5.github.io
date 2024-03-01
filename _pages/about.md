@@ -52,10 +52,10 @@ News
 Education
 ======
 * Ph.D. (2023) in Computer Science, University of Illinois Urbana-Champaign  
-**Thesis**: Efficient and Effective Learning of Text Representations
+**Thesis**: [Efficient and Effective Learning of Text Representations](https://www.ideals.illinois.edu/items/129146)
 
 * M.S. (2019) in Computer Science, University of Illinois Urbana-Champaign  
-**Thesis**: [Weakly-Supervised Text Classification](https://www.ideals.illinois.edu/handle/2142/104867)
+**Thesis**: [Weakly-Supervised Text Classification](https://www.ideals.illinois.edu/items/111979)
 
 * B.S. (2017) in Computer Engineering, University of Illinois Urbana-Champaign  
 Graduated with Highest Honor & [Bronze Tablet](https://digital.library.illinois.edu/items/592ebe50-1be8-0136-4cfa-0050569601ca-5#?c=0&m=0&s=0&cv=0&r=0&xywh=-3461%2C0%2C12837%2C5932)  
