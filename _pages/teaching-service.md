@@ -17,6 +17,7 @@ author_profile: true
 ## Conference Area Chair
 * **COLM** (2024)
 * **ICML** (2024)
+* **NeurIPS** (2024)
 
 ## Journal Action Editor
 * **TMLR**
