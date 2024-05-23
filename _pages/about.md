@@ -34,6 +34,10 @@ News
 ======
 * \[**2024 Service**\] **ICML 2024** (Area Chair), **COLM 2024** (Area Chair), **NeurIPS 2024** (Area Chair), **TMLR** (Action Editor).
 
+* \[**2024.05**\] One paper on [Language Model Reasoning on Graphs](https://arxiv.org/abs/2404.07103) has been accepted by **ACL 2024 Findings**!
+
+* \[**2024.04**\] Received the [Superalignment Fast Grants](https://openai.com/index/superalignment-fast-grants/) from OpenAI!
+
 * \[**2024.01**\] Two papers on [Masked Language Modeling](https://arxiv.org/abs/2302.02060) and [Language Model Evaluation](https://arxiv.org/abs/2310.07641) have been accepted by **ICLR 2024**!
 
 * \[**2023.10**\] One paper on [Weakly Supervised Text Classification](https://arxiv.org/abs/2305.13723) has been accepted by **EMNLP 2023**!
