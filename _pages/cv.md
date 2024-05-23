@@ -12,11 +12,15 @@ redirect_from:
 
 # 2024
 
-* Representation Deficiency in Masked Language Modeling \[[PDF](https://arxiv.org/abs/2302.02060)\]  
+* Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs \[[PDF](https://arxiv.org/abs/2404.07103)\] \[[Code](https://github.com/PeterGriffinJin/Graph-CoT)\]  
+Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, **Yu Meng**, Jiawei Han.  
+Findings of Annual Meeting of the Association for Computational Linguistics (**ACL-Findings**), 2024
+
+* Representation Deficiency in Masked Language Modeling \[[PDF](https://arxiv.org/abs/2302.02060)\] \[[Code](https://github.com/yumeng5/MAE-LM)\]  
 **Yu Meng**, Jitin Krishnan, Sinong Wang, Qifan Wang, Yuning Mao, Han Fang, Marjan Ghazvininejad, Jiawei Han, Luke Zettlemoyer.  
 International Conference on Learning Representations (**ICLR**), 2024
 
-* Evaluating Large Language Models at Evaluating Instruction Following \[[PDF](https://arxiv.org/abs/2310.07641)\]  
+* Evaluating Large Language Models at Evaluating Instruction Following \[[PDF](https://arxiv.org/abs/2310.07641)\] \[[Code](https://github.com/princeton-nlp/LLMBar)\]   
 Zhiyuan Zeng, Jiatong Yu, Tianyu Gao, **Yu Meng**, Tanya Goyal, Danqi Chen.  
 International Conference on Learning Representations (**ICLR**), 2024
 
