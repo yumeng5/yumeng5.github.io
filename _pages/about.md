@@ -32,7 +32,7 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 
 News
 ======
-* \[**2024 Service**\] **ICML 2024** (Area Chair), **COLM 2024** (Area Chair), **NeurIPS 2024** (Area Chair), **ACL Rolling Review 2024** (Area Chair), **TMLR** (Action Editor).
+* \[**2024 Service**\] **ICML 2024** (Area Chair), **COLM 2024** (Area Chair), **NeurIPS 2024** (Area Chair), **ACL Rolling Review** (Area Chair), **TMLR** (Action Editor).
 
 * \[**2024.05**\] One paper on [Language Model Reasoning on Graphs](https://arxiv.org/abs/2404.07103) has been accepted by **ACL 2024 Findings**!
 
