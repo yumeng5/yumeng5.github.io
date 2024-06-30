@@ -15,6 +15,7 @@ author_profile: true
 # Service
 
 ## Conference Area Chair
+* **ACL Rolling Review** (2024)
 * **COLM** (2024)
 * **ICML** (2024)
 * **NeurIPS** (2024)
