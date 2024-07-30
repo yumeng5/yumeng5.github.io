@@ -4,7 +4,7 @@
 
 table {
   margin-bottom: 1em;
-  width: 150%;
+  width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
@@ -15,26 +15,6 @@ table {
   }
 }
 
-th, td {
-  padding: 15px;
-  text-align: middle;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
-}
-
-th {
-  background-color: #f2f2f2;
-}
-
-tr:hover {
-  background-color: #f5f5f5;
-}
-
-tr, td, th {
-  vertical-align: middle;
-}
-
-/* 
 thead {
   background-color: $lighter-gray;
   border-bottom: 1px solid $light-gray;
@@ -44,6 +24,7 @@ th {
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
+  border-right: 1px solid $light-gray;
 }
 
 td {
@@ -52,4 +33,6 @@ td {
   border-right: 1px solid $light-gray;
 }
 
-*/
+tr, td, th {
+  vertical-align: middle;
+}
