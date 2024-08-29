@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}  
 
-* ACM SIGKDD Dissertation Award (2024)
+* [ACM SIGKDD Dissertation Award](https://kdd2024.kdd.org/awards/) (2024)
 * [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/?category=2021) (2021 -- 2023)
 * [Yunni and Maxine Pao Memorial Fellowship](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (2023)
 * [Data Mining Research Excellence Awards](http://dm1.cs.uiuc.edu/awards.html) (Gold in 2019, 2020, 2021; Silver in 2022)
