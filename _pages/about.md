@@ -38,7 +38,7 @@ News
 ======
 * \[**2024-2025 Service**\] **ICML 2024** (Area Chair), **COLM 2024** (Area Chair), **NeurIPS 2024** (Area Chair), **ICLR 2025** (Area Chair), **ACL Rolling Review** (Area Chair), **TMLR** (Action Editor).
 
-* \[**2024.08**\] My Ph.D. thesis won the ACM SIGKDD 2024 Dissertation Award!
+* \[**2024.08**\] My Ph.D. thesis won the [ACM SIGKDD 2024 Dissertation Award](https://kdd2024.kdd.org/awards/)!
 
 * \[**2024.05**\] One paper on [Language Model Reasoning on Graphs](https://arxiv.org/abs/2404.07103) has been accepted by **ACL 2024 Findings**!
 
@@ -55,7 +55,7 @@ Education
 ======
 * Ph.D. (2023) in Computer Science, University of Illinois Urbana-Champaign  
 **Thesis**: [Efficient and Effective Learning of Text Representations](https://www.ideals.illinois.edu/items/129146)
-(**ACM SIGKDD 2024 Dissertation Award**)
+(**[ACM SIGKDD 2024 Dissertation Award](https://kdd2024.kdd.org/awards/)**)
 
 * M.S. (2019) in Computer Science, University of Illinois Urbana-Champaign  
 **Thesis**: [Weakly-Supervised Text Classification](https://www.ideals.illinois.edu/items/111979)
