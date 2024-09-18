@@ -42,7 +42,7 @@ News
 
 * \[**2024.05**\] One paper on [Language Model Reasoning on Graphs](https://arxiv.org/abs/2404.07103) has been accepted by **ACL 2024 Findings**!
 
-* \[**2024.04**\] Received the [Superalignment Fast Grants](https://openai.com/index/superalignment-fast-grants/) from **OpenAI**!
+* \[**2024.04**\] Received the [Superalignment Fast Grants](https://openai.com/index/superalignment-fast-grants/) from **OpenAI** [(UVA Press Release)](https://engineering.virginia.edu/news-events/news/uva-professor-receives-openai-grant-inform-next-generation-ai-systems)!
 
 * \[**2024.01**\] Two papers on [Masked Language Modeling](https://arxiv.org/abs/2302.02060) and [Language Model Evaluation](https://arxiv.org/abs/2310.07641) have been accepted by **ICLR 2024**!
 
