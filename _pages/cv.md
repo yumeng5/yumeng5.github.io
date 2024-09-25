@@ -12,6 +12,22 @@ redirect_from:
 
 # 2024
 
+* SimPO: Simple Preference Optimization with a Reference-Free Reward \[[PDF](https://arxiv.org/abs/2405.14734)\] \[[Code](https://github.com/princeton-nlp/SimPO)\]  
+**Yu Meng**\*, Mengzhou Xia\*, Danqi Chen.  
+Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024
+
+* Unchosen Experts Can Contribute Too: Unleashing MoE Models’ Power by Self-Contrast \[[PDF](https://arxiv.org/abs/2405.14507)\] \[[Code](https://github.com/DavidFanzz/SCMoE)\]  
+Chufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Cai, Yujiu Yang, **Yu Meng**.  
+Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024
+
+* Grasping the Essentials: Tailoring Large Language Models for Zero-Shot Relation Extraction \[[PDF](https://arxiv.org/abs/2402.11142)\]  
+Sizhe Zhou, **Yu Meng**, Bowen Jin, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024
+
+* Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization \[[PDF](https://arxiv.org/abs/2406.01171)\]  
+Yu-Min Tseng, Yu-Chao Huang, Teng-Yun Hsiao, Wei-Lin Chen, Chao-Wei Huang, **Yu Meng**, Yun-Nung Chen.  
+Findings of Conference on Empirical Methods in Natural Language Processing (**EMNLP-Findings**), 2024
+
 * Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs \[[PDF](https://arxiv.org/abs/2404.07103)\] \[[Code](https://github.com/PeterGriffinJin/Graph-CoT)\]  
 Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Suhang Wang, **Yu Meng**, Jiawei Han.  
 Findings of Annual Meeting of the Association for Computational Linguistics (**ACL-Findings**), 2024
