@@ -17,7 +17,7 @@ Research
 
 I am broadly interested in the fields of natural language processing (NLP), machine learning (ML), and data mining. Currently, I am especially passionate about the advancements in large language models (LLMs). Here are some papers that reflect my interests:
 * **Training Language Models for Better Alignment and Reliability**:
-  * [arXiv'24 Meng et al.] [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734)
+  * [NeurIPS'24 Meng et al.] [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/abs/2405.14734)
   * [arXiv'24 [Wei](https://weizhepei.com/) et al.] [InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales](https://arxiv.org/abs/2406.13629)
 * **Large Language Models for Synthetic Data Generation**:
   * [ICML'23 Meng et al.] [Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning](https://arxiv.org/abs/2211.03044)
@@ -38,17 +38,21 @@ News
 ======
 * \[**2024-2025 Service**\] **ICML 2024** (Area Chair), **COLM 2024** (Area Chair), **NeurIPS 2024** (Area Chair), **ICLR 2025** (Area Chair), **ACL Rolling Review** (Area Chair), **TMLR** (Action Editor).
 
+* \[**2024.09**\] Two papers on [Preference Optimization](https://arxiv.org/abs/2405.14734) and [Contrastive Decoding in MoE](https://arxiv.org/abs/2405.14507) accepted to **NeurIPS 2024**!
+
+* \[**2024.09**\] Two papers on [Zero-Shot Relation Extraction](https://arxiv.org/abs/2402.11142) and [LLM Persona Survey](https://arxiv.org/abs/2406.01171) accepted to **EMNLP 2024 Main Conference/Findings**!
+
 * \[**2024.08**\] My Ph.D. thesis won the [ACM SIGKDD 2024 Dissertation Award](https://kdd2024.kdd.org/awards/)!
 
-* \[**2024.05**\] One paper on [Language Model Reasoning on Graphs](https://arxiv.org/abs/2404.07103) has been accepted by **ACL 2024 Findings**!
+* \[**2024.05**\] One paper on [Language Model Reasoning on Graphs](https://arxiv.org/abs/2404.07103) accepted to **ACL 2024 Findings**!
 
 * \[**2024.04**\] Received the [Superalignment Fast Grants](https://openai.com/index/superalignment-fast-grants/) from **OpenAI** [(UVA Press Release)](https://engineering.virginia.edu/news-events/news/uva-professor-receives-openai-grant-inform-next-generation-ai-systems)!
 
-* \[**2024.01**\] Two papers on [Masked Language Modeling](https://arxiv.org/abs/2302.02060) and [Language Model Evaluation](https://arxiv.org/abs/2310.07641) have been accepted by **ICLR 2024**!
+* \[**2024.01**\] Two papers on [Masked Language Modeling](https://arxiv.org/abs/2302.02060) and [Language Model Evaluation](https://arxiv.org/abs/2310.07641) accepted to **ICLR 2024**!
 
-* \[**2023.10**\] One paper on [Weakly Supervised Text Classification](https://arxiv.org/abs/2305.13723) has been accepted by **EMNLP 2023**!
+* \[**2023.10**\] One paper on [Weakly Supervised Text Classification](https://arxiv.org/abs/2305.13723) accepted to **EMNLP 2023**!
 
-* \[**2023.09**\] One paper on [Language Models as Training Data Generators](https://arxiv.org/abs/2306.15895) has been accepted by **NeurIPS 2023 Datasets and Benchmarks Track**!
+* \[**2023.09**\] One paper on [Language Models as Training Data Generators](https://arxiv.org/abs/2306.15895) accepted to **NeurIPS 2023 Datasets and Benchmarks Track**!
 
 
 Education
