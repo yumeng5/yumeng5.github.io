@@ -1,0 +1,432 @@
+---
+title: "CS 6501 Natural Language Processing (Spring 2025)"
+collection: teaching
+permalink: /teaching/2025-spring-cs6501
+layout: archive
+---
+
+## Logistics
+* Instructor: [**Yu Meng**](https://yumeng5.github.io/) (yumeng5[at]virginia[dot]edu)
+* Teaching Assistants: [**Peng Wang**](https://www.cs.virginia.edu/~tqf5qb/) (pw7nc[at]virginia[dot]edu) 
+* Time: Mondays & Wednesdays 2:00pm - 3:15pm
+* Location: Olsson Hall 005
+
+## Course Overview
+This advanced graduate-level course offers a comprehensive exploration of cutting-edge developments in the field of natural language processing (NLP). With Large Language Models (LLMs) serving as the foundation for state-of-the-art NLP systems, we will cover various topics aiming at gaining a better understanding of LLMs' design, capabilities, limitations, and future prospects. Key areas include model architecture and design, training methodologies (e.g., pretraining, instruction tuning, RLHF), emergent capabilities (e.g., in-context learning, reasoning), parametric knowledge with retrieval-augmented generation, efficiency (e.g., parameter-efficient training, sparse methods), language agents, and ethics. This course will be highly research-driven with a substantial focus on presenting and discussing important papers and conducting research projects.
+
+## Grading
+
+* **Paper Presentation (30%)** ([<span style="color:blue">**Signup Sheet**</span>](https://docs.google.com/spreadsheets/d/1-QqSvqdLg6ejfeS8jscHHaFcEUXDBK7sgBKXnM7U5vU/edit?usp=drive_link)): In each lecture starting from the 3rd lecture, a group of 2 or 3 students will be tasked to present 4 papers selected for the topic they signed up for. The primary objective is to impart knowledge to the rest of the class. The presentation duration is strictly limited to 60 minutes, followed by a 10-minute question-and-answer session with the audience. The presentation will be assessed based on the following criteria (everyone from the same presentation group receives the same score):
+     * Clarity: Whether the presentation effectively communicates the core concepts and insights contained in the papers.
+     * Completeness: Whether the presentation adequately covers the essential messages in the 4 assigned papers within the allocated timeframe.
+     * Teamwork: Whether the presentation is prepared and delivered by all team members.
+     * Question answering: Whether the presenters effectively answer the questions raised by the audience.
+
+  **Tips for presentation preparation**: It is not necessary to cover every detail of the papers; rather, emphasis should be placed on conveying general ideas and insights: For theoretical papers, you don't need to go over each proof in detail, but need to explain the major conclusions/insights of the theoretical analysis. For empirical papers, you don't need to present every piece of experiment results, but need to articulate how the empirical findings support the major claims. A good presentation should highlight
+     * The major contributions of the paper
+     * Why these contributions are deemed important (e.g., did they reveal any previously unknown facts or change people's opinions on a widely acknowledged phenomenon?)
+     * The most important technical details (e.g., the motivation behind a new training objective/model architecture design and the corresponding implementation)
+     * The limitations of the work and how they might be addressed in the future
+  
+  **Deadline for slides submission**: Send your slides to the instructor and TAs via email at least 48 hours before your presentation (e.g., if presenting on Monday, slides should be submitted by Saturday 3:30 pm). You will receive feedback from the instructor to improve your slides, and if necessary, the instructor may schedule a meeting with your team to go over the slides. Late submissions after the deadline will result in a 50% presentation grade deduction.
+* **Participation (20%)**: For each lecture starting from the 3rd lecture, everyone is required to complete the following two mini-assignments (regardless of whether or not you have signed up to present for that lecture):
+     * Pre-lecture question: Your task is to read the 4 papers to be introduced in the lecture, and submit a question you have when you read them. The question must not be trivial (e.g., "Does the proposed method work?" / "What is the aim of the paper?"). You are also welcome to raise these questions in the 10-minute question-and-answer session during class. **The deadline is one day before the lecture** (e.g., For Monday lectures, you need to submit the question by Sunday 11:59 pm).
+     * Post-lecture feedback: After attending the lecture, you are required to provide feedback to the presenters. You should comment on the clarity, completeness, depth, etc. Your feedback doesn't have to be long, but should be specific and constructive. The deadline is each Friday (**both Monday & Wednesday feedback is due Friday 11:59 pm**).
+* **Project (50%)**: By the end of this course, you are required to complete a research project, present your results, and submit a project report. You are required to work in a team of 2 or 3 (any deviation from this team size requires prior approval from the instructor). There are two acceptable project types:
+     * A comprehensive survey report: The survey should carefully examine and summarize existing literature on a topic covered in this course, and provide detailed and insightful discussions on the unresolved issues, challenges, and potential future opportunities within the chosen topic.
+     * A hands-on project: The project is not constrained to the course topics but must be centered around NLP. The project does not have to involve large language models either. For example, you may choose to train or analyze smaller-scale language models for specific tasks. You are eligible to receive extra credits if the final project reaches a publishable state.
+
+  The project grading breakdown (50%) is as follows:
+     * Project proposal ([<span style="color:blue">**Guideline**</span>](https://docs.google.com/document/d/1qxbvyUDGl0HB8fdAhubQWtDZ9xzqyXY6Y_7Bk9tsxso/edit?usp=sharing)): 5% (**Deadline**: 2/5)
+     * Mid-term report ([<span style="color:blue">**Guideline**</span>](https://docs.google.com/document/d/1hbaVTYgpNALgNER_3wX2pFQYEBXAg9AbHSt-fSLlkEs/edit?usp=sharing)): 10% (**Deadline**: 3/13)
+     * Final presentation (**Deadline**: 4/24; [<span style="color:blue">**Guideline**</span>](https://docs.google.com/document/d/1XsQZyOxFHrBDOJhG6W1lfaNhdm_nE50J0gLv4-Yz0jA/edit?usp=sharing)) and final report (**Deadline**: 5/8; [<span style="color:blue">**Guideline**</span>](https://docs.google.com/document/d/1XXVTYtfqoYHxwthVRAP4qSBOEVsynguUyiCIj4ktXx4/edit?usp=sharing)): 35% 
+
+## Schedule
+
+<style>
+  table {
+    font-size: 14px; /* Set your desired font size */
+    width: 100%; /* Set your desired width */
+    border-collapse: collapse; /* Optional: Remove cell spacing */
+  }
+  th, td {
+    padding: 5px; /* Optional: Adjust padding for cells */
+  }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Papers</th>
+      <th>Slides</th>
+      <th>Supplemental Reading</th>
+    </tr>
+  </thead>
+  <tr>
+      <td colspan="5" align="center"><b>Introduction to Language Models</b></td>
+  </tr>
+  <tbody>
+    <tr>
+      <td><b>1/17</b></td>
+      <td><b>Course Overview</b></td>
+      <td>-</td>
+      <td><a href="/teaching/2024-spring-cs6501/overview.pdf">overview</a><br></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><b>1/22</b></td>
+      <td><b>Language Model Architecture and Pretraining</b></td>
+      <td>
+        * <a href="https://arxiv.org/abs/1310.4546">Distributed Representations of Words and Phrases and their Compositionality (word2vec) </a><br>
+        * <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need (Transformer)</a><br>
+        * <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners (GPT-2)</a> <br>
+        * <a href="https://arxiv.org/abs/1810.04805">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><br>
+        * <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a><br>
+        * <a href="https://arxiv.org/abs/2003.10555">ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators</a><br>
+        * <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a><br> 
+        * <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5) </a> <br> </td>
+      <td><a href="/teaching/2024-spring-cs6501/lm_basics.pdf">lm_basics</a><br></td>
+      <td> 
+        * <a href="https://jalammar.github.io/illustrated-transformer/">(Blog) The Illustrated Transformer</a><br> 
+        * <a href="https://kipp.ly/transformer-inference-arithmetic/">(Blog) Transformer Inference Arithmetic</a><br> </td>
+    </tr>
+    <tr>
+      <td><b>1/24</b></td>
+      <td> <b>Large Language Models and In-Context Learning</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners (GPT-3) </a><br>
+        * <a href="https://arxiv.org/abs/2307.09288">Llama 2: Open Foundation and Fine-Tuned Chat Models </a><br>
+        * <a href="https://arxiv.org/abs/2111.02080">An Explanation of In-context Learning as Implicit Bayesian Inference </a><br>
+        * <a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/llm_icl.pdf">llm_icl</a><br> </td>
+      <td> 
+        * <a href="https://www.interconnects.ai/p/llama-2-from-meta">(Blog) Llama 2: an incredible open LLM</a><br>
+        * <a href="https://arxiv.org/abs/2303.08774">(Tech Report) GPT-4 Technical Report</a><br> 
+      </td>
+    </tr>
+    <tr>
+      <td><b>1/29</b></td>
+      <td> <b>Model Calibration</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2012.00955">How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering </a><br>
+        * <a href="https://arxiv.org/abs/2104.08315">Surface Form Competition: Why the Highest Probability Answer Isn't Always Right </a><br>
+        * <a href="https://arxiv.org/abs/2205.14334">Teaching Models to Express Their Uncertainty in Words </a><br>
+        * <a href="https://arxiv.org/abs/2302.09664">Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/calibration.pdf">calibration</a><br> </td>
+      <td> 
+        * <a href="https://learnprompting.org/docs/reliability/calibration">(Blog) Calibrating LLMs</a><br>
+        * <a href="https://arxiv.org/abs/2102.09690">(Paper) Calibrate Before Use: Improving Few-Shot Performance of Language Models</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td><b>1/31</b></td>
+      <td> <b>Scaling and Emergent Ability</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2203.15556">Training Compute-Optimal Large Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2305.16264">Scaling Data-Constrained Language Models</a><br>
+        * <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2304.15004">Are Emergent Abilities of Large Language Models a Mirage?</a><br>  
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/scaling.pdf">scaling</a><br>  </td>
+      <td> 
+        * <a href="https://cthiriet.com/blog/scaling-laws">(Blog) Scaling Laws and Emergent Properties</a><br>
+        * <a href="https://bdtechtalks.com/2023/05/17/llm-emergent-abilities-mirage/">(Blog) Are the emergent abilities of LLMs like GPT-4 a mirage?</a><br>
+      </td>
+    </tr>
+  </tbody>
+  
+  
+  <tr>
+      <td colspan="5" align="center"><b>Reasoning with Language Models</b></td>
+  </tr>
+  <tbody>
+  <tr>
+      <td> <b>2/5</b> </td>
+      <td> <b>Chain-of-Thought Generation</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2205.10625">Least-to-Most Prompting Enables Complex Reasoning in Large Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2203.11171">Self-Consistency Improves Chain of Thought Reasoning in Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2210.11610">Large Language Models Can Self-Improve </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/cot.pdf">cot</a><br>  </td>
+      <td>
+        * <a href="https://www.mercity.ai/blog-post/guide-to-chain-of-thought-prompting">(Blog) Comprehensive Guide to Chain-of-Thought Prompting</a><br>
+        * <a href="https://arxiv.org/abs/2205.11916">(Paper) Large Language Models are Zero-Shot Reasoners</a><br>
+      </td>
+  </tr>
+  <tr>
+      <td> <b>2/7</b> </td>
+      <td> <b>Advanced Reasoning</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2211.10435">PAL: Program-aided Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2305.10601">Tree of Thoughts: Deliberate Problem Solving with Large Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2206.14858">Solving Quantitative Reasoning Problems with Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2305.20050">Let's Verify Step by Step </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/adv_reasoning.pdf"> adv_reasoning </a><br> </td>
+      <td>
+        * <a href="https://www.promptingguide.ai/techniques/tot">(Blog) Tree of Thoughts (ToT)</a><br>
+        * <a href="https://blog.research.google/2022/06/minerva-solving-quantitative-reasoning.html">(Blog) Minerva: Solving Quantitative Reasoning Problems with Language Models </a><br>
+      </td>
+  </tr>
+  </tbody>
+  
+  <tr>
+      <td colspan="5" align="center"><b>Knowledge and Factuality</b></td>
+  </tr>
+  <tbody>
+  <tr>
+      <td> <b>2/12</b> </td>
+      <td> <b>Parametric Knowledge in Language Models</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/1909.01066">Language Models as Knowledge Bases? </a><br>
+        * <a href="https://arxiv.org/abs/2002.08910">How Much Knowledge Can You Pack Into the Parameters of a Language Model? </a><br>
+        * <a href="https://arxiv.org/abs/2012.14913">Transformer Feed-Forward Layers Are Key-Value Memories </a><br>
+        * <a href="https://arxiv.org/abs/2202.05262">Locating and Editing Factual Associations in GPT </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/knowledge.pdf"> knowledge </a><br> </td>
+      <td> 
+        * <a href="https://arxiv.org/abs/2104.08164">(Paper) Editing Factual Knowledge in Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2110.11309">(Paper) Fast Model Editing at Scale </a><br>
+      </td>
+  </tr>
+  <tr>
+      <td> <b>2/14</b> </td>
+      <td> <b>Retrieval-Augmented Language Generation (RAG)</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/1911.00172">Generalization through Memorization: Nearest Neighbor Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks </a><br>
+        * <a href="https://arxiv.org/abs/2004.04906">Dense Passage Retrieval for Open-Domain Question Answering </a><br>
+        * <a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/rag.pdf"> rag </a><br>  </td>
+      <td> 
+        * <a href="https://arxiv.org/abs/2301.12652">(Paper) REPLUG: Retrieval-Augmented Black-Box Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2307.03172">(Paper) Lost in the Middle: How Language Models Use Long Contexts </a><br>
+      </td>
+  </tr>
+  
+  </tbody>
+
+  
+  <tr>
+      <td colspan="5" align="center"><b>Language Model Alignment</b></td>
+  </tr>
+  <tbody>
+  <tr>
+      <td> <b>2/19</b> </td>
+      <td> <b>Multi-Task Instruction Tuning</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners </a><br>
+        * <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization </a><br>
+        * <a href="https://arxiv.org/abs/2104.08773">Cross-Task Generalization via Natural Language Crowdsourcing Instructions </a><br>
+        * <a href="https://arxiv.org/abs/2204.07705">Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/multitask.pdf"> multitask </a><br> </td>
+      <td> 
+        <a href="https://yaofu.notion.site/June-2023-A-Stage-Review-of-Instruction-Tuning-f59dbfc36e2d4e12a33443bd6b2012c2">(Blog) A Stage Review of Instruction Tuning</a><br> 
+      </td>
+  </tr>
+
+  <tr> 
+    <td colspan="5" align="center" bgcolor="Lavender"><b>2/21 [Guest Lecture] <a href="https://ysymyth.github.io/">Shunyu Yao</a> (Princeton): Language Agents: From Next Token Prediction to Digital Automation<br></b> </td>
+  </tr> 
+  <tr>
+      <td> <b>2/26</b> </td>
+      <td> <b>Chat-Style Instruction Tuning</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2212.10560">Self-Instruct: Aligning Language Models with Self-Generated Instructions </a><br>
+        * <a href="https://arxiv.org/abs/2305.11206">LIMA: Less Is More for Alignment </a><br>
+        * <a href="https://arxiv.org/abs/2305.14387">AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback </a><br>
+        * <a href="https://arxiv.org/abs/2308.06259">Self-Alignment with Instruction Backtranslation </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/chat_instruction.pdf"> chat_instruction </a><br> </td>
+      <td>
+        * <a href="https://gaotianyu.xyz/blog/2023/11/30/instruction-tuning/">(Blog) Teach Llamas to Talk: Recent Progress in Instruction Tuning</a><br> 
+        * <a href="https://arxiv.org/abs/2306.04751">(Paper) How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</a><br> 
+      </td>
+  </tr>
+  <tr>
+      <td> <b>2/28</b> </td>
+      <td> <b>Reinforcement Learning from Human Feedback (RLHF)</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback </a><br>
+        * <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization: Your Language Model is Secretly a Reward Model </a><br>
+        * <a href="https://arxiv.org/abs/2306.01693">Fine-Grained Human Feedback Gives Better Rewards for Language Model Training </a><br>
+        * <a href="https://arxiv.org/abs/2307.15217">Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/rlhf.pdf">rlhf</a><br> </td>
+      <td>
+        * <a href="https://huggingface.co/blog/rlhf">(Blog) Illustrating Reinforcement Learning from Human Feedback (RLHF)</a><br> 
+        * <a href="https://huggingface.co/blog/pref-tuning">(Blog) Preference Tuning LLMs with Direct Preference Optimization Methods</a><br>
+      </td>
+  </tr>
+  </tbody>
+  
+  <tbody>
+  <tr>
+      <td colspan="5" align="center"><b><b>3/2 - 3/10</b> (Spring Recess, No Class)</b></td>
+  </tr>
+  </tbody>
+
+  <tr>
+      <td colspan="5" align="center"><b>Language Model Agents</b></td>
+  </tr>
+  <tbody>
+  <tr>
+      <td> <b>3/11</b> </td>
+      <td> <b>Task Execution via Reasoning, Tools and Conversations</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2210.03629">ReAct: Synergizing Reasoning and Acting in Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2302.04761">Toolformer: Language Models Can Teach Themselves to Use Tools </a><br>
+        * <a href="https://arxiv.org/abs/2308.08155">AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation </a><br>
+        * <a href="https://arxiv.org/abs/2303.11366">Reflexion: Language Agents with Verbal Reinforcement Learning </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/agent.pdf">agent</a><br> </td>
+      <td>
+        * <a href="https://blog.research.google/2022/11/react-synergizing-reasoning-and-acting.html">(Blog) ReAct: Synergizing Reasoning and Acting in Language Models</a><br> 
+        * <a href="https://www.shaped.ai/blog/breaking-down-toolformer">(Blog) Breaking Down Toolformer</a><br> 
+        * <a href="https://www.pinecone.io/learn/series/langchain/langchain-agents/">(Blog) Superpower LLMs with Conversational Agents</a><br> 
+      </td>
+  </tr>
+  
+  <tr>
+      <td> <b>3/13</b> </td>
+      <td> <b>Language Models for Code</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2204.05999">InCoder: A Generative Model for Code Infilling and Synthesis </a><br>
+        * <a href="https://arxiv.org/abs/2308.12950">Code Llama: Open Foundation Models for Code </a><br>
+        * <a href="https://arxiv.org/abs/2304.05128">Teaching Large Language Models to Self-Debug </a><br>
+        * <a href="https://arxiv.org/abs/2302.08468">LEVER: Learning to Verify Language-to-Code Generation with Execution </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/code_lm.pdf"> code_lm </a><br> </td>
+      <td>
+        * <a href="https://vectara.com/blog/large-language-models-llms-for-code-generation-part-1/">(Blog) Large Language Models for Code Generation – Part 1</a><br> 
+        * <a href="https://towardsdatascience.com/cracking-the-code-llms-354505c53295">(Blog) Cracking the Code LLMs</a><br> 
+      </td>
+  </tr>
+  <tr>
+      <td> <b>3/18</b> </td>
+      <td> <b>Multimodal Language Models</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2204.14198">Flamingo: a Visual Language Model for Few-Shot Learning </a><br>
+        * <a href="https://arxiv.org/abs/2305.11175">VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks </a><br>
+        * <a href="https://arxiv.org/abs/2304.08485">Visual Instruction Tuning (LLaVA) </a><br>
+        * <a href="https://arxiv.org/abs/2309.05519">NExT-GPT: Any-to-Any Multimodal LLM </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/multimodal.pdf"> multimodal </a><br>  </td>
+      <td> 
+        * <a href="https://www.adept.ai/blog/fuyu-8b">(Blog) Fuyu-8B: A Multimodal Architecture for AI Agents</a><br> 
+        * <a href="https://voxel51.com/blog/understanding-llava-large-language-and-vision-assistant/">(Blog) Understanding LLaVA: Large Language and Vision Assistant</a><br> 
+      </td>
+  </tr>
+  </tbody>
+
+  
+  <tr> 
+    <td colspan="5" align="center" bgcolor="Lavender"><b>3/20 [Guest Lecture] <a href="https://zhaofengwu.github.io/">Zhaofeng Wu</a> (MIT): Generalization in the LLM Era<br></b> </td>
+  </tr> 
+  <tr>
+      <td colspan="5" align="center"><b>Efficient Language Modeling</b></td>
+  </tr>
+  
+  <tbody>
+  <tr>
+      <td> <b>3/25</b> </td>
+      <td> <b>Sparse Models</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2101.03961">Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity </a><br>
+        * <a href="https://arxiv.org/abs/2004.05150">Longformer: The Long-Document Transformer </a><br>
+        * <a href="https://arxiv.org/abs/2309.17453">Efficient Streaming Language Models with Attention Sinks </a><br>
+        * <a href="https://arxiv.org/abs/2301.00774">SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/sparse.pdf"> sparse </a><br>  </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2401.04088">(Tech Report) Mixtral of Experts </a><br>
+        * <a href="https://huggingface.co/blog/moe">(Blog) Mixture of Experts Explained </a><br>
+      </td>
+  </tr>
+  
+  </tbody>
+
+  
+  <tr>
+      <td colspan="5" align="center"><b>Ethical Considerations and Evaluations of Language Models</b></td>
+  </tr>
+  <tbody>
+  
+  <tr>
+      <td> <b>3/27</b> </td>
+      <td> <b>Privacy and Legal Issues</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2012.07805">Extracting Training Data from Large Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2110.05679">Large Language Models Can Be Strong Differentially Private Learners </a><br>
+        * <a href="https://arxiv.org/abs/2202.07646">Quantifying Memorization Across Neural Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2308.04430">SILO Language Models: Isolating Legal Risk In a Nonparametric Datastore </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/privacy.pdf"> privacy </a><br> </td>
+      <td>
+        * <a href="https://stackoverflow.blog/2023/10/23/privacy-in-the-age-of-generative-ai/">(Blog) Privacy in the age of generative AI</a><br>
+        * <a href="https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html">(Blog) Extracting Training Data from ChatGPT</a><br>
+      </td>
+  </tr>
+  <tr>
+      <td> <b>4/1</b> </td>
+      <td> <b>Security and Jailbreaking</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2306.11698">DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models </a><br>
+        * <a href="https://arxiv.org/abs/2307.15043">Universal and Transferable Adversarial Attacks on Aligned Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2305.00944">Poisoning Language Models During Instruction Tuning </a><br>
+        * <a href="https://arxiv.org/abs/2308.06463">GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/security.pdf"> security </a><br> </td>
+      <td>
+        * <a href="https://www.lakera.ai/blog/jailbreaking-large-language-models-guide">(Blog) Jailbreaking Large Language Models: Techniques, Examples, Prevention Methods </a><br>
+        * <a href="https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/">(Blog) Adversarial Attacks on LLMs </a><br>
+      </td>
+  </tr>
+  <tr>
+      <td> <b>4/3</b> </td>
+      <td> <b>Bias and Mitigation</b> </td>
+      <td>
+        * <a href="https://arxiv.org/abs/2009.11462">RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2103.00453">Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP </a><br>
+        * <a href="https://arxiv.org/abs/2202.03286">Red Teaming Language Models with Language Models </a><br>
+        * <a href="https://arxiv.org/abs/2303.17548">Whose Opinions Do Language Models Reflect? </a><br>
+      </td>
+      <td> <a href="/teaching/2024-spring-cs6501/bias.pdf"> bias </a><br> </td>
+      <td>
+        * <a href="https://www.datacamp.com/blog/understanding-and-mitigating-bias-in-large-language-models-llms">(Blog) Understanding and Mitigating Bias in Large Language Models (LLMs) </a><br>
+        * <a href="https://www.forbes.com/sites/forbestechcouncil/2023/09/06/navigating-the-biases-in-llm-generative-ai-a-guide-to-responsible-implementation/?sh=540eff445cd2">(Blog) Navigating The Biases In LLM Generative AI: A Guide To Responsible Implementation (LLMs) </a><br>
+      </td>
+  </tr>
+  
+  <tr>
+      <td colspan="5" align="center"><b><b>4/8, 4/10</b> (No Class)</b></td>
+  </tr>
+  </tbody>
+
+  <tr> 
+    <td colspan="5" align="center" bgcolor="Lavender"><b>4/15 [Guest Lecture] <a href="https://calebziems.com/">Caleb Ziems</a> (Stanford): Can Large Language Models Transform Computational Social Science? <br></b> </td>
+  </tr> 
+ 
+  <tr> 
+    <td colspan="5" align="center" bgcolor="Lavender"><b>4/17 [Guest Lecture] <a href="https://gaotianyu.xyz/about/">Tianyu Gao</a> (Princeton): Long-Context Language Modeling with Parallel Context Encoding <br></b> </td>
+  </tr> 
+
+  <tr> 
+    <td colspan="5" align="center" bgcolor="Lavender"><b>4/22 [Guest Lecture] <a href="https://www.cs.cmu.edu/~cx/">Chenyan Xiong</a> (CMU): Parallel Pretraining for Large Language Models <a href="/teaching/2024-spring-cs6501/guest_lecture_xiong.pdf"> [Slides] </a><br> </b> </td>
+  </tr> 
+  <tr>
+      <td colspan="5" align="center"><b><b>4/24, 4/29</b> Project Presentations</b></td>
+  </tr>
+</table>
+
+## Useful Materials
+* For NLP background: [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+* For deep learning background: [Deep Learning](https://www.deeplearningbook.org/)
