@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Spring 2025: [CS 6501 Natural Language Processing](https://yumeng5.github.io/teaching/2025-spring-cs6501)
 * Fall 2024: [CS 4501 Natural Language Processing](https://yumeng5.github.io/teaching/2024-fall-cs4501)
 * Spring 2024: [CS 6501 Natural Language Processing](https://yumeng5.github.io/teaching/2024-spring-cs6501)
 
@@ -17,8 +18,8 @@ author_profile: true
 
 ## Conference Area Chair
 * **ACL Rolling Review** (2024)
-* **COLM** (2024)
-* **ICML** (2024)
+* **COLM** (2024-2025)
+* **ICML** (2024-2025)
 * **ICLR** (2025)
 * **NeurIPS** (2024)
 
