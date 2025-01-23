@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}  
 (\*=Equal Contribution)
 
+# 2025
+
+* InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales \[[PDF](https://arxiv.org/abs/2406.13629)\] \[[Code](https://github.com/weizhepei/InstructRAG)\]  
+Zhepei Wei, Wei-Lin Chen, **Yu Meng**.  
+International Conference on Learning Representations (**ICLR**), 2025
+
 # 2024
 
 * SimPO: Simple Preference Optimization with a Reference-Free Reward \[[PDF](https://arxiv.org/abs/2405.14734)\] \[[Code](https://github.com/princeton-nlp/SimPO)\]  
