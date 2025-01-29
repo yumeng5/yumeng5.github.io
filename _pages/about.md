@@ -37,7 +37,7 @@ I am broadly interested in the fields of natural language processing (NLP), mach
 News
 ======
 
-* \[**2024-2025 Service**\] **ICML 2025** (Area Chair), **COLM 2025** (Area Chair), **NeurIPS 2024** (Area Chair), **ICLR 2025** (Area Chair), **ACL Rolling Review** (Area Chair), **TMLR** (Action Editor).
+* \[**2024-2025 Service**\] Area Chair: **ICLR, ICML, COLM, NeurIPS**. Action Editor: **TMLR**.
 
 * \[**2025.01**\] One paper on Retrieval-Augmented Generation ([InstructRAG](https://arxiv.org/abs/2406.13629)) accepted to **ICLR 2025**!
 
