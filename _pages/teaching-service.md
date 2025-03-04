@@ -21,7 +21,7 @@ author_profile: true
 * **COLM** (2024-2025)
 * **ICML** (2024-2025)
 * **ICLR** (2025)
-* **NeurIPS** (2024)
+* **NeurIPS** (2024-2025)
 
 ## Journal Action Editor
 * **TMLR**
