@@ -10,12 +10,21 @@ $doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 1.5em;
+
+/* Enhanced line heights */
+$body-line-height           : 1.6;
+$header-line-height         : 1.3;
+
+/* Responsive design improvements */
+$mobile-padding             : 1rem;
+$tablet-padding             : 1.5rem;
+$desktop-padding            : 2rem;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : "JetBrains Mono", "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -28,22 +37,34 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+/* Custom font families */
+$inter                      : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$source-sans-pro            : "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$lato                       : "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$open-sans                  : "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
-/* type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
-$type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+$global-font-family         : $inter;
+$header-font-family         : $inter;
+$caption-font-family        : $inter;
+
+/* Refined type scale for optimal visual hierarchy */
+$type-size-1                : 2.25em;   // ~36px - Main page titles (more balanced)
+$type-size-2                : 1.75em;   // ~28px - Section headings 
+$type-size-3                : 1.5em;    // ~24px - Subsection headings
+$type-size-4                : 1.25em;   // ~20px - Minor headings
+$type-size-5                : 1.125em;  // ~18px - Large body text
+$type-size-6                : 1em;      // ~16px - Regular body text
+$type-size-7                : 0.875em;  // ~14px - Small text
+$type-size-8                : 0.75em;   // ~12px - Fine print
 
 /* masthead properties */
-$masthead-height            : 70px;
+$masthead-height            : 80px;
+$masthead-padding           : 1.5rem;
+
+/* Content spacing */
+$content-max-width          : 1400px;
+$content-padding            : 2rem;
+$section-spacing            : 3rem;
 
 /* Sidebar properties */
 $sidebar-screen-min-width   : 1024px;
@@ -52,27 +73,39 @@ $sidebar-link-max-width     : 250px;
 
 
 /*
-   Colors
+   Colors - Professional Academic Color Scheme
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Base grays - improved contrast */
+$gray                       : #6b7280;
+$dark-gray                  : #374151;
+$darker-gray                : #1f2937;
+$light-gray                 : #d1d5db;
+$lighter-gray               : #f3f4f6;
+$lightest-gray              : #f9fafb;
 
+/* Main colors */
 $body-color                 : #fff;
 $background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #111827;        // High contrast for accessibility
+$muted-text-color           : #6b7280;        // Secondary text
+$border-color               : #e5e7eb;        // Subtle borders
+$divider-color              : #d1d5db;        // Section dividers
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+/* Code styling */
+$code-background-color      : #f8fafc;
+$code-background-color-dark : #e2e8f0;
+$code-text-color            : #1e293b;
+$code-border-color          : #cbd5e1;
+
+/* Professional accent colors */
+$primary-color              : #1e40af;        // Professional blue
+$secondary-color            : #dc2626;        // Academic red for highlights
+$accent-color               : #059669;        // Success green
+$success-color              : #059669;
+$warning-color              : #d97706;
+$danger-color               : #dc2626;
+$info-color                 : #0284c7;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -101,12 +134,13 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+/* links - improved accessibility */
+$link-color                 : $primary-color;        // Professional blue
+$link-color-hover           : #1d4ed8;               // Darker blue on hover
+$link-color-visited         : #7c3aed;               // Purple for visited links
+$link-color-focus           : #1d4ed8;               // Focus state
+$masthead-link-color        : $darker-gray;         // Dark gray for navigation
+$masthead-link-color-hover  : $primary-color;       // Blue on hover
 
 
 /*

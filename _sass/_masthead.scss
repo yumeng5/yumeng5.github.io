@@ -4,8 +4,11 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  background: rgba(white, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid $border-color;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -19,8 +22,10 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    padding: $masthead-padding;
+    font-family: $inter;
+    max-width: $content-max-width;
+    margin: 0 auto;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -32,6 +37,18 @@
 
     a {
       text-decoration: none;
+      color: $masthead-link-color;
+      font-weight: 500;
+      transition: $global-transition;
+
+      &:hover {
+        color: $masthead-link-color-hover;
+      }
+
+      &:focus {
+        outline: 2px solid $primary-color;
+        outline-offset: 2px;
+      }
     }
   }
 }
@@ -54,5 +71,19 @@
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+    font-size: $type-size-5;
+  }
+
+  a {
+    font-size: $type-size-6;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background: rgba($primary-color, 0.1);
+      transform: translateY(-1px);
+    }
   }
 }

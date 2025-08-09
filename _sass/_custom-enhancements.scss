@@ -1,0 +1,367 @@
+/* ==========================================================================
+   CUSTOM ENHANCEMENTS - Professional Academic Theme
+   ========================================================================== */
+
+/*
+   Focus States and Accessibility
+   ========================================================================== */
+
+/* Skip to main content link for screen readers */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 6px;
+  background: $primary-color;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  z-index: 100;
+  border-radius: 4px;
+  font-weight: 600;
+
+  &:focus {
+    top: 6px;
+  }
+}
+
+/* Enhanced focus states with better visibility */
+*:focus {
+  outline: 2px solid $primary-color;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Remove outline for mouse users but keep for keyboard users */
+.js-focus-visible :focus:not(.focus-visible) {
+  outline: none;
+}
+
+/* Focus visible for keyboard users */
+.focus-visible {
+  outline: 2px solid $primary-color !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 4px rgba($primary-color, 0.2) !important;
+}
+
+/*
+   Content Enhancements
+   ========================================================================== */
+
+/* Professional highlights for important content */
+.highlight-box {
+  background: $lightest-gray;
+  border-left: 4px solid $primary-color;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 6px 6px 0;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* Professional callout for important announcements */
+.callout {
+  background: linear-gradient(135deg, rgba($primary-color, 0.05) 0%, rgba($primary-color, 0.1) 100%);
+  border: 1px solid rgba($primary-color, 0.2);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  position: relative;
+  
+  &::before {
+    content: "📢";
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    font-size: 1.2em;
+  }
+  
+  .callout-content {
+    margin-left: 2rem;
+    font-weight: 500;
+    
+    strong {
+      color: $primary-color;
+      font-weight: 600;
+    }
+  }
+}
+
+/* Academic announcement styling */
+.announcement {
+  background: linear-gradient(135deg, rgba($accent-color, 0.05) 0%, rgba($accent-color, 0.1) 100%);
+  border-left: 4px solid $accent-color;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 6px 6px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  
+  p {
+    margin-bottom: 0;
+    font-weight: 500;
+    
+    strong {
+      color: $accent-color;
+      font-weight: 600;
+    }
+  }
+}
+
+/* Academic paper list styling */
+.paper-list {
+  li {
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid $lighter-gray;
+
+    &:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+    }
+
+    .paper-title {
+      font-weight: 600;
+      color: $darker-gray;
+      margin-bottom: 0.5em;
+    }
+
+    .paper-venue {
+      color: $primary-color;
+      font-weight: 500;
+      font-size: $type-size-7;
+    }
+
+    .paper-authors {
+      color: $muted-text-color;
+      font-size: $type-size-7;
+      margin-bottom: 0.25em;
+    }
+  }
+}
+
+/* News/Updates styling */
+.news-list {
+  .news-item {
+    margin-bottom: 1.25em;
+    padding-left: 1em;
+    border-left: 3px solid $lighter-gray;
+
+    .news-date {
+      color: $muted-text-color;
+      font-weight: 600;
+      font-size: $type-size-7;
+    }
+
+    .news-content {
+      margin-top: 0.25em;
+    }
+  }
+}
+
+/* Enhanced blockquotes */
+blockquote {
+  background: $lightest-gray;
+  border-left: 4px solid $primary-color;
+  margin: 2em 0;
+  padding: 1.5em 2em;
+  font-style: italic;
+  font-size: $type-size-5;
+  line-height: 1.7;
+  border-radius: 0 6px 6px 0;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  cite {
+    display: block;
+    margin-top: 1em;
+    font-size: $type-size-7;
+    color: $muted-text-color;
+    font-style: normal;
+
+    &:before {
+      content: "— ";
+    }
+  }
+}
+
+/*
+   Interactive Elements and Visual Enhancements
+   ========================================================================== */
+
+/* Smooth page transitions */
+.page__content {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Enhanced list styling with subtle hover effects */
+.page__content ul li,
+.page__content ol li {
+  transition: $global-transition;
+  padding: 0.25rem 0;
+  
+  &:hover {
+    transform: translateX(4px);
+    color: $darker-gray;
+  }
+}
+
+/* Paper links with enhanced hover states */
+.page__content a[href*="arxiv.org"],
+.page__content a[href*="doi.org"] {
+  position: relative;
+  display: inline-block;
+  
+  &::after {
+    content: "📄";
+    margin-left: 0.25em;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  &:hover::after {
+    opacity: 1;
+  }
+}
+
+/* Venue/conference styling */
+.page__content strong {
+  position: relative;
+  
+  /* Highlight major venues */
+  &:contains("NeurIPS"),
+  &:contains("ICLR"),
+  &:contains("ICML"),
+  &:contains("EMNLP"),
+  &:contains("ACL") {
+    color: $primary-color;
+    font-weight: 600;
+  }
+}
+
+/* Enhanced buttons */
+.btn {
+  font-family: $inter;
+  font-weight: 500;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  &:focus {
+    outline: 2px solid $primary-color;
+    outline-offset: 2px;
+  }
+
+  &--primary {
+    background: $primary-color;
+    color: white;
+
+    &:hover {
+      background: darken($primary-color, 10%);
+    }
+  }
+
+  &--secondary {
+    background: transparent;
+    color: $primary-color;
+    border: 2px solid $primary-color;
+
+    &:hover {
+      background: $primary-color;
+      color: white;
+    }
+  }
+}
+
+/*
+   Responsive Images
+   ========================================================================== */
+
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: $global-transition;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  }
+}
+
+/*
+   Loading States and Animations
+   ========================================================================== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/*
+   Print Styles
+   ========================================================================== */
+
+@media print {
+  .masthead,
+  .sidebar,
+  .page__share {
+    display: none !important;
+  }
+
+  body {
+    padding-top: 0 !important;
+  }
+
+  a {
+    color: $text-color !important;
+    text-decoration: underline !important;
+  }
+
+  .page__content {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+}
+
+/*
+   Dark Mode Support (Future Enhancement)
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+  /* This can be expanded later for dark mode support */
+}
+
+/*
+   Reduced Motion Support
+   ========================================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

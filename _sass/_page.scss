@@ -5,22 +5,36 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 2.5em;
+  padding-left: 2em;
+  padding-right: 2em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  max-width: $content-max-width;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include breakpoint($small) {
+    padding-left: $mobile-padding;
+    padding-right: $mobile-padding;
+  }
+
+  @include breakpoint($medium) {
+    padding-left: $tablet-padding;
+    padding-right: $tablet-padding;
+  }
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: $content-max-width; // was $x-large (1280px) limiting width
+    padding-left: 3em;
+    padding-right: 3em;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include span(11 of 12 last); // was 10 of 12 with prefix/suffix shrinking content
+    padding-left: 2.5em; // a bit more breathing room from sidebar
   }
 
   .page__inner-wrap {
@@ -36,27 +50,86 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  margin-bottom: 0;
+  line-height: $header-line-height;
+  color: $darker-gray;
+  font-weight: 700;
+  font-size: 2.05em; // match adjusted global h1 size for consistency
 
   & + .page__meta {
-    margin-top: -0.5em;
+    margin-top: -1em;
+    margin-bottom: 2em;
   }
 }
 
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  font-weight: 400;
+  line-height: 1.7;
+  color: $muted-text-color;
+  margin-bottom: 2.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid $border-color;
 }
 
 .page__content {
+  margin-top: 2em;
+  max-width: 78ch; // optimal reading line length
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-bottom: 0.75em;
+    border-bottom: 2px solid $border-color;
+    margin-top: 2.25em; // slightly tighter than 2.5em for rhythm
+    margin-bottom: 1.25em;
+    position: relative;
+    
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 3rem;
+      height: 2px;
+      background: $primary-color;
+    }
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: $type-size-6;
+    line-height: $body-line-height;
+  }
+
+  /* Enhanced list styling */
+  ul, ol {
+    margin-bottom: 1.5em;
+    padding-left: 2em;
+    
+    li {
+      margin-bottom: 0.5em;
+      line-height: $body-line-height;
+    }
+  }
+
+  ul {
+    list-style-type: disc;
+    
+    ul {
+      list-style-type: circle;
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+    }
+  }
+
+  /* Strong text styling */
+  strong, b {
+    font-weight: 600;
+    color: $darker-gray;
+  }
+
+  /* Emphasis styling */
+  em, i {
+    font-style: italic;
   }
 
   /* paragraph indents */
@@ -73,14 +146,24 @@
   }
 
   a {
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
+    border-bottom: 1px solid $link-color;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      border-bottom-color: $link-color-hover;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 15px rgba($primary-color, 0.3);
+        transform: translateY(-2px);
       }
+    }
+
+    &:focus {
+      outline: 2px solid $link-color-focus;
+      outline-offset: 2px;
     }
   }
 
