@@ -49,12 +49,20 @@
 }
 
 .page__title {
+  // unified with section (h2) styling rhythm
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0.75em; // was 1.75em; tightened to better match h2 spacing
   line-height: $header-line-height;
   color: $darker-gray;
-  font-weight: 700;
-  font-size: 2.05em; // match adjusted global h1 size for consistency
+  font-weight: 600; // match other headings
+  font-size: $type-size-2; // align with h2 scale
+  padding-bottom: 0.45em; // reduced from 0.65em to tighten gap between title text and underline
+  border-bottom: 2px solid $border-color;
+  position: relative;
+  letter-spacing: -0.02em;
+
+  // remove colored accent bar for consistency
+  &::after { display: none; }
 
   & + .page__meta {
     margin-top: -1em;

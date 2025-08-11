@@ -365,3 +365,259 @@ blockquote {
     scroll-behavior: auto !important;
   }
 }
+
+/* ==========================================================================
+   Academic Lists (Publications, News, Education)
+   ========================================================================== */
+
+.pub-section { margin-top: 2.75em; }
+.pub-section:first-of-type { margin-top: 1.5em; }
+
+.pub-subhead {
+  font-size: $type-size-5; // reduced for clearer hierarchy below main sections
+  font-weight: 600;
+  margin: 2.1em 0 0.8em;
+  padding-left: 0.55em;
+  border-left: 4px solid rgba($primary-color,0.35);
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+}
+
+/* Top-level research heading should remain larger via h2 default (handled in _page.scss) */
+
+.badge {
+  display: inline-block;
+  background: rgba($primary-color,0.08);
+  color: $primary-color;
+  font-size: 11px; // slightly larger for readability
+  font-weight: 600;
+  line-height: 1;
+  padding: 4px 8px 3px;
+  border-radius: 999px;
+  letter-spacing: 0.25px; // reduced for mixed case
+  text-transform: none; // preserve original case
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
+/* Base publication list */
+.pub-list {
+  list-style: none;
+  margin: 0 0 1.5em;
+  padding: 0;
+}
+
+.pub-item {
+  position: relative;
+  padding-left: 1.25rem;
+  margin-bottom: 0.85em;
+  line-height: 1.55;
+  font-size: $type-size-6;
+}
+.pub-item:last-child { margin-bottom: 0; }
+
+.pub-item:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.7em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: $primary-color;
+  opacity: 0.9;
+}
+
+.pub-item a { font-weight: 500; }
+/* Remove font-weight change on hover to prevent perceived size jump */
+.pub-item a:hover { font-weight: 500; /* was 600; keep weight stable */ }
+
+/* Optional metadata line */
+.pub-meta { display: block; margin-top: 0.15em; font-size: $type-size-7; color: $muted-text-color; }
+
+/* Badge (venue / status) */
+.badge {
+  display: inline-block;
+  background: rgba($primary-color,0.08);
+  color: $primary-color;
+  font-size: 11px; // slightly larger for readability
+  font-weight: 600;
+  line-height: 1;
+  padding: 4px 8px 3px;
+  border-radius: 999px;
+  letter-spacing: 0.25px; // reduced for mixed case
+  text-transform: none; // preserve original case
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
+.badge-neutral { background: rgba($darker-gray,0.08); color: $darker-gray; }
+.badge-accent { background: rgba($accent-color,0.1); color: $accent-color; }
+
+/* Highlight recent items (add .recent on <li>) */
+.pub-item.recent:after {
+  content: "NEW";
+  display: inline-block;
+  margin-left: 0.6em;
+  background: $accent-color;
+  color: #fff;
+  font-size: 10px;
+  padding: 3px 6px 2px;
+  border-radius: 6px;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  position: relative;
+  top: -1px;
+}
+
+/* News list using structured layout */
+.news-list { list-style: none; margin: 0 0 2.25em; padding: 0; }
+.news-item { display: flex; gap: 1rem; padding: 0.65em 0; border-bottom: 1px solid $lighter-gray; }
+.news-item:last-child { border-bottom: none; }
+.news-date { flex: 0 0 110px; font-size: $type-size-7; font-weight: 600; color: $muted-text-color; }
+.news-content { flex: 1; line-height: 1.5; }
+
+/* Education list */
+.edu-list { margin: 0 0 2.5em; padding: 0; }
+.edu-list dt { font-weight: 600; margin: 1.4em 0 0.35em; font-size: $type-size-5; line-height: 1.35; }
+.edu-list dt:first-child { margin-top: 0; }
+.edu-list dd { margin: 0 0 0.25em 0; font-size: $type-size-7; color: $muted-text-color; line-height: 1.5; }
+.edu-list a { font-weight: 500; }
+
+/* Compact modifier (add .compact on pub-list) */
+.pub-list.compact .pub-item { margin-bottom: 0.55em; }
+
+/* Full publication list authors and meta blocks for cv page consistency */
+.pub-authors { display:block; margin:0.2em 0 0.15em; font-size:$type-size-7; color:$muted-text-color; line-height:1.4; }
+.pub-meta { display:block; font-size:$type-size-7; color:$muted-text-color; margin-top:0.1em; }
+.pub-year-heading { border-left:none; padding-left:0; font-size:1.6em; margin:2.5em 0 1em; font-weight:600; }
+.pub-year-heading:first-of-type { margin-top:1.25em; }
+
+/* Responsive adjustments */
+@include breakpoint($small) {
+  .pub-item { padding-left: 1.35rem; }
+  .pub-item:before { top: 0.72em; }
+  .news-item { padding: 0.55em 0; }
+}
+
+@include breakpoint($medium) {
+  .pub-subhead { font-size: $type-size-4; }
+  .pub-list .pub-item { font-size: $type-size-6; }
+}
+
+@include breakpoint($large) {
+  .news-date { flex: 0 0 120px; }
+}
+
+/* ==========================================================================
+   Award List Styles
+   ========================================================================== */
+
+/* Award list styling */
+.award-list { list-style:none; margin:0 0 2.5em; padding:0; }
+.award-list.compact { margin-bottom:2em; }
+.award-item { position:relative; display:flex; gap:0.9rem; padding:0.65rem 0 0.55rem 0.1rem; border-bottom:1px solid $lighter-gray; }
+.award-item:last-child { border-bottom:none; }
+.award-year { flex:0 0 auto; margin-right:0; }
+.award-body { flex:1; line-height:1.45; }
+.award-body strong a, .award-body strong { font-weight:600; }
+.award-detail { display:block; font-size:$type-size-7; color:$muted-text-color; margin-top:0.15rem; }
+.award-item.multi .award-year { background:rgba($primary-color,0.15); }
+.award-list.compact .award-item { padding:0.5rem 0; }
+
+/* Hover affordance */
+.award-item:hover { transform:translateX(4px); transition:$global-transition; }
+.award-item:hover .award-year { background:rgba($primary-color,0.18); }
+
+/* Simplified awards list (no pill badges) */
+.awards-simple { margin-top:1.25em; }
+.awards-simple .award-item { 
+  display:flex; 
+  gap:1.1rem; 
+  align-items:flex-start; 
+  padding:0.45rem 0 0.35rem 0; 
+  border-bottom:1px solid $lighter-gray; 
+  position:relative; 
+}
+.awards-simple .award-item:last-child { border-bottom:none; }
+.awards-simple .award-item:before { 
+  content:""; 
+  width:7px; height:7px; 
+  border-radius:50%; 
+  background:$primary-color; 
+  position:absolute; 
+  left:-14px; top:0.85rem; 
+  box-shadow:0 0 0 3px rgba($primary-color,0.15); 
+}
+.awards-simple .award-year { 
+  font-size:$type-size-7; 
+  font-weight:600; 
+  color:$muted-text-color; 
+  flex:0 0 78px; 
+  letter-spacing:0.3px; 
+  margin-left:0.5rem; // enlarged gap between bullet and year
+}
+
+/* Increase gap between bullet and year */
+.awards-simple .award-year { margin-left:0.5rem; }
+
+.awards-simple .award-main { flex:1; line-height:1.45; }
+.awards-simple .award-main strong { font-weight:600; }
+.awards-simple .award-detail { 
+  font-size:$type-size-7; 
+  color:$muted-text-color; 
+  margin-left:0.35em; 
+}
+.awards-simple a { font-weight:500; }
+.awards-simple .award-item:hover { 
+  /* Prevent horizontal layout shift */
+  transform:none !important; 
+  background: rgba($primary-color,0.06);
+  border-radius:4px;
+  transition: background 0.3s ease, color 0.3s ease; 
+}
+
+/* Override hover styling so year background does not darken */
+.awards-simple .award-item:hover .award-year { background: transparent !important; box-shadow:none !important; }
+
+/* Ensure base state explicitly zeroes transform */
+.awards-simple .award-item { transform:none; }
+
+/* Adjust awards list indentation (keep previous gap) */
+.awards-simple { padding-left:0.9rem; }
+.awards-simple .award-item:before { left:-0.9rem; }
+/* (Removed duplicate .awards-simple .award-year { margin-left:0.15rem; }) */
+
+/* Responsive tightening */
+@include breakpoint($small){
+  .awards-simple .award-year { flex:0 0 70px; }
+  .awards-simple .award-item:before { left:-12px; }
+}
+
+/* ==========================================================================
+   Teaching and Service Lists
+   ========================================================================== */
+
+/* Teaching & Service lists */
+.teach-list, .service-list { list-style:none; margin:0 0 1.75em; padding:0; }
+.teach-item, .service-item { display:flex; gap:0.85rem; padding:0.45rem 0 0.4rem; border-bottom:1px solid $lighter-gray; line-height:1.45; }
+.teach-item:last-child, .service-item:last-child { border-bottom:none; }
+.term-badge { background:rgba($primary-color,0.08); color:$primary-color; font-size:11px; font-weight:600; padding:4px 8px 3px; border-radius:999px; line-height:1; flex:0 0 auto; position:relative; top:2px; }
+.teach-item strong a { font-weight:600; }
+.service-venue { flex:1; font-weight:600; }
+.service-years { flex:0 0 115px; text-align:right; font-size:$type-size-7; color:$muted-text-color; font-weight:500; letter-spacing:0.25px; }
+.service-subhead { font-size:$type-size-6; font-weight:600; margin:1.9em 0 0.75em; letter-spacing:-0.2px; }
+.service-subhead:first-of-type { margin-top:1.25em; }
+
+/* New service-category styling */
+.service-main { font-size:1.6em; font-weight:600; margin:2.4em 0 0.9em; line-height:1.3; }
+.service-main:first-of-type { margin-top:2.2em; }
+.service-category { font-size:$type-size-5; font-weight:600; margin:2.0em 0 0.75em; letter-spacing:-0.15px; padding-left:0.45em; border-left:4px solid rgba($primary-color,0.3); line-height:1.35; }
+.service-category + .service-list { margin-top:0.2em; }
+.service-category:first-of-type { margin-top:1.3em; }
+
+/* Hover effect without layout shift */
+.teach-item:hover, .service-item:hover { background:rgba($primary-color,0.05); border-radius:4px; }
+
+@include breakpoint($small){ .service-years { flex:0 0 100px; } }
+@include breakpoint($medium){ .service-years { flex:0 0 110px; } }
