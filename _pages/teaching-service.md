@@ -20,7 +20,7 @@ author_profile: true
   <li class="service-item"><span class="service-venue">ACL Rolling Review</span><span class="service-years">2024</span></li>
   <li class="service-item"><span class="service-venue">COLM</span><span class="service-years">2024–2025</span></li>
   <li class="service-item"><span class="service-venue">ICML</span><span class="service-years">2024–2025</span></li>
-  <li class="service-item"><span class="service-venue">ICLR</span><span class="service-years">2025</span></li>
+  <li class="service-item"><span class="service-venue">ICLR</span><span class="service-years">2025–2026</span></li>
   <li class="service-item"><span class="service-venue">NeurIPS</span><span class="service-years">2024–2025</span></li>
 </ul>
 
