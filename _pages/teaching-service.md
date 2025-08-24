@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <ul class="teach-list" style="margin-top:0.15em;">
+  <li class="teach-item"><span class="badge">Fall 2025</span><strong><a href="https://yumeng5.github.io/teaching/2025-fall-cs4770">CS 4770 Natural Language Processing</a></strong></li>
   <li class="teach-item"><span class="badge">Spring 2025</span><strong><a href="https://yumeng5.github.io/teaching/2025-spring-cs6501">CS 6501 Natural Language Processing</a></strong></li>
   <li class="teach-item"><span class="badge">Fall 2024</span><strong><a href="https://yumeng5.github.io/teaching/2024-fall-cs4501">CS 4501 Natural Language Processing</a></strong></li>
   <li class="teach-item"><span class="badge">Spring 2024</span><strong><a href="https://yumeng5.github.io/teaching/2024-spring-cs6501">CS 6501 Natural Language Processing</a></strong></li>
