@@ -20,7 +20,7 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 <h3 class="pub-subhead">Post-Training: Aligning and Enhancing LLMs</h3>
 <p class="section-desc">My recent work designs better post-training algorithms to improve reasoning, factuality, preference alignment, and model-based evaluation.</p>
 <ul class="pub-list">
-  <li class="pub-item"><span class="badge">arXiv 2025</span> <a href="https://zhuxinyu.top/">Zhu</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2506.01347">The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></strong></li>
+  <li class="pub-item"><span class="badge">NeurIPS 2025</span> <a href="https://zhuxinyu.top/">Zhu</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2506.01347">The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></strong></li>
   <li class="pub-item"><span class="badge">arXiv 2025</span> <a href="https://wlchen0206.github.io/">Chen</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2504.03846">Do LLM Evaluators Prefer Themselves for a Reason?</a></strong></li>
   <li class="pub-item"><span class="badge">ICLR 2025</span> <a href="https://weizhepei.com/">Wei</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2406.13629">InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales</a></strong></li>
   <li class="pub-item"><span class="badge">NeurIPS 2024</span> Meng <em>et al.</em> <strong><a href="https://arxiv.org/abs/2405.14734">SimPO: Simple Preference Optimization with a Reference-Free Reward</a></strong></li>
@@ -45,6 +45,7 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 <h2 class="pub-subhead" style="border-left:none; padding-left:0; font-size:1.9em;">News</h2>
 <ul class="news-list">
   <li class="news-item"><span class="news-date">2025 Service</span><span class="news-content">Area Chair: <strong>ICLR, ICML, COLM, NeurIPS</strong>. Action Editor: <strong>TMLR</strong>.</span></li>
+  <li class="news-item"><span class="news-date">2025.09</span><span class="news-content">Two papers on Negative Sample Reinforcement for LLM Reasoning (<a href="https://arxiv.org/abs/2506.01347">NSR</a>) and Efficient LLM Reasoning Transfer (<a href="https://arxiv.org/abs/2506.15710">RAST</a>) accepted to <strong>NeurIPS 2025</strong>!</span></li>
   <li class="news-item"><span class="news-date">2025.05</span><span class="news-content">Two papers on Accelerating LLM Decoding (<a href="https://arxiv.org/abs/2506.03700">AdaDecode</a>) and Retrieval-Inspired Preference Alignment (<a href="https://arxiv.org/abs/2502.03699">LarPO</a>) accepted to <strong>ICML 2025</strong>!</span></li>
   <li class="news-item"><span class="news-date">2025.04</span><span class="news-content">Honored to be named to the <a href="https://www.forbes.com/30-under-30/2025/asia/healthcare-science">Forbes 30 Under 30 2025 Asia list (Healthcare & Science)</a>!</span></li>
   <li class="news-item"><span class="news-date">2025.01</span><span class="news-content">One paper on Retrieval-Augmented Generation (<a href="https://arxiv.org/abs/2406.13629">InstructRAG</a>) accepted to <strong>ICLR 2025</strong>!</span></li>
