@@ -47,13 +47,13 @@ author_profile: true
 	/* Acknowledgements entries */
 	.ack-entries { list-style: none; padding-left: 0; margin: 0.5rem 0 0; display: grid; gap: 10px; }
 	.ack-item { border: 1px solid #e6e8eb; border-radius: 10px; background: #fafbfd; }
-	.ack-item a { display: flex; align-items: center; gap: 12px; padding: 10px 12px; text-decoration: none; color: inherit; }
+	.ack-item a { display: flex; align-items: center; gap: 12px; padding: 10px 12px; text-decoration: none; color: inherit; justify-content: space-between; }
 	/* Prevent global underline on the entire row (hover/focus/active) */
 	.ack-item a:hover, .ack-item a:focus, .ack-item a:active { text-decoration: none !important; }
 	.ack-item img { height: 28px; width: auto; opacity: 0.95; }
 	@media (min-width: 700px) { .ack-item img { height: 30px; } }
 	.ack-item .ack-name { font-weight: 600; display: inline-block; padding: 1px 4px; border-radius: 4px; }
-	.ack-item .ack-dates { color: #6b7280; margin-left: 6px; }
+	.ack-item .ack-dates { color: #6b7280; margin-left: auto; text-align: right; min-width: 140px; font-variant-numeric: tabular-nums; font-size: 0.9rem; }
 	/* Underline only the funding name on interaction; never underline dates */
 	/* Match student-card underline style */
 	.ack-item a:hover .ack-name, .ack-item a:focus .ack-name, .ack-item a:active .ack-name { text-decoration: underline; text-underline-offset: 2px; background-color: #f5f9ff; }
@@ -92,14 +92,21 @@ author_profile: true
 		<a href="https://openai.com/research/superalignment-fast-grants" target="_blank" rel="noopener">
 			<img src="{{ base_path }}/images/openai.png" alt="OpenAI" loading="lazy" />
 			<span class="ack-name">OpenAI Superalignment Fast Grants</span>
-			<span class="ack-dates">(2024/04–2025/04)</span>
+			<span class="ack-dates">2024/04–2025/04</span>
 		</a>
 	</li>
 	<li class="ack-item">
 		<a href="https://www.openphilanthropy.org/request-for-proposals-technical-ai-safety-research/" target="_blank" rel="noopener">
 			<img src="{{ base_path }}/images/open_philanthropy.png" alt="Open Philanthropy" loading="lazy" />
 			<span class="ack-name">Open Philanthropy Technical AI Safety Research</span>
-			<span class="ack-dates">(2025/08–2026/08)</span>
+			<span class="ack-dates">2025/08–2026/08</span>
+		</a>
+	</li>
+	<li class="ack-item">
+		<a href="https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025" target="_blank" rel="noopener">
+			<img src="{{ base_path }}/images/amazon.svg" alt="Amazon" loading="lazy" />
+			<span class="ack-name">Amazon Research Awards</span>
+			<span class="ack-dates">2026/11–2027/11</span>
 		</a>
 	</li>
 </ul>
