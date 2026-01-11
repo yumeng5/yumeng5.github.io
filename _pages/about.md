@@ -44,7 +44,8 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 
 <h2 class="pub-subhead" style="border-left:none; padding-left:0; font-size:1.9em;">News</h2>
 <ul class="news-list">
-  <li class="news-item"><span class="news-date">2025 Service</span><span class="news-content">Area Chair: <strong>ICLR, ICML, COLM, NeurIPS</strong>. Action Editor: <strong>TMLR</strong>.</span></li>
+  <li class="news-item"><span class="news-date">2026 Service</span><span class="news-content">Area Chair: <strong>ICLR, ICML</strong>. Action Editor: <strong>TMLR</strong>.</span></li>
+  <li class="news-item"><span class="news-date">2026.01</span><span class="news-content">Honored to be selected for the <a href="https://aaai.org/conference/aaai/aaai-26/new-faculty-highlights-program/">AAAI New Faculty Highlights</a> program.</span></li>
   <li class="news-item"><span class="news-date">2025.11</span><span class="news-content">Honored to receive an <a href="https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025">Amazon Research Award</a> in AI for Information Security.</span></li>
   <li class="news-item"><span class="news-date">2025.09</span><span class="news-content">Two papers on Negative Sample Reinforcement for LLM Reasoning (<a href="https://arxiv.org/abs/2506.01347">NSR</a>) and Efficient LLM Reasoning Transfer (<a href="https://arxiv.org/abs/2506.15710">RAST</a>) accepted to <strong>NeurIPS 2025</strong>!</span></li>
   <li class="news-item"><span class="news-date">2025.05</span><span class="news-content">Two papers on Accelerating LLM Decoding (<a href="https://arxiv.org/abs/2506.03700">AdaDecode</a>) and Retrieval-Inspired Preference Alignment (<a href="https://arxiv.org/abs/2502.03699">LarPO</a>) accepted to <strong>ICML 2025</strong>!</span></li>

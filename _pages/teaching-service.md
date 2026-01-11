@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <ul class="teach-list" style="margin-top:0.15em;">
+  <li class="teach-item"><span class="badge">Spring 2026</span><strong><a href="https://yumeng5.github.io/teaching/2026-spring-cs6770">CS 6770 Natural Language Processing</a></strong></li>
   <li class="teach-item"><span class="badge">Fall 2025</span><strong><a href="https://yumeng5.github.io/teaching/2025-fall-cs4770">CS 4770 Natural Language Processing</a></strong></li>
   <li class="teach-item"><span class="badge">Spring 2025</span><strong><a href="https://yumeng5.github.io/teaching/2025-spring-cs6501">CS 6501 Natural Language Processing</a></strong></li>
   <li class="teach-item"><span class="badge">Fall 2024</span><strong><a href="https://yumeng5.github.io/teaching/2024-fall-cs4501">CS 4501 Natural Language Processing</a></strong></li>
@@ -20,7 +21,7 @@ author_profile: true
 <ul class="service-list">
   <li class="service-item"><span class="service-venue">ACL Rolling Review</span><span class="service-years">2024</span></li>
   <li class="service-item"><span class="service-venue">COLM</span><span class="service-years">2024–2025</span></li>
-  <li class="service-item"><span class="service-venue">ICML</span><span class="service-years">2024–2025</span></li>
+  <li class="service-item"><span class="service-venue">ICML</span><span class="service-years">2024–2026</span></li>
   <li class="service-item"><span class="service-venue">ICLR</span><span class="service-years">2025–2026</span></li>
   <li class="service-item"><span class="service-venue">NeurIPS</span><span class="service-years">2024–2025</span></li>
 </ul>
