@@ -96,7 +96,7 @@ author_profile: true
 		</a>
 	</li>
 	<li class="ack-item">
-		<a href="https://www.openphilanthropy.org/request-for-proposals-technical-ai-safety-research/" target="_blank" rel="noopener">
+		<a href="https://coefficientgiving.org/funds/navigating-transformative-ai/" target="_blank" rel="noopener">
 			<img src="{{ base_path }}/images/open_philanthropy.png" alt="Open Philanthropy" loading="lazy" />
 			<span class="ack-name">Open Philanthropy Technical AI Safety Research</span>
 			<span class="ack-dates">2025/08–2026/08</span>
