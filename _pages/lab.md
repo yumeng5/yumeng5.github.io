@@ -47,11 +47,14 @@ author_profile: true
 	/* Acknowledgements entries */
 	.ack-entries { list-style: none; padding-left: 0; margin: 0.5rem 0 0; display: grid; gap: 10px; }
 	.ack-item { border: 1px solid #e6e8eb; border-radius: 10px; background: #fafbfd; }
-	.ack-item a { display: flex; align-items: center; gap: 12px; padding: 10px 12px; text-decoration: none; color: inherit; justify-content: space-between; }
+	.ack-item a, .ack-item .ack-row { display: flex; align-items: center; gap: 12px; padding: 10px 12px; text-decoration: none; color: inherit; justify-content: space-between; }
 	/* Prevent global underline on the entire row (hover/focus/active) */
 	.ack-item a:hover, .ack-item a:focus, .ack-item a:active { text-decoration: none !important; }
 	.ack-item img { height: 28px; width: auto; opacity: 0.95; }
 	@media (min-width: 700px) { .ack-item img { height: 30px; } }
+	/* Meta's mark is wider than tall; constrain to the same box as the square icons */
+	.ack-item img.icon-fit { width: 28px; object-fit: contain; }
+	@media (min-width: 700px) { .ack-item img.icon-fit { width: 30px; } }
 	.ack-item .ack-name { font-weight: 600; display: inline-block; padding: 1px 4px; border-radius: 4px; }
 	.ack-item .ack-dates { color: #6b7280; margin-left: auto; text-align: right; min-width: 140px; font-variant-numeric: tabular-nums; font-size: 0.9rem; }
 	/* Underline only the funding name on interaction; never underline dates */
@@ -108,6 +111,13 @@ author_profile: true
 			<span class="ack-name">Amazon Research Award</span>
 			<span class="ack-dates">2025/11–2026/11</span>
 		</a>
+	</li>
+	<li class="ack-item">
+		<div class="ack-row">
+			<img class="icon-fit" src="{{ base_path }}/images/meta.svg" alt="Meta" loading="lazy" />
+			<span class="ack-name">Meta Open Science Research Grant</span>
+			<span class="ack-dates">2026/09–2027/09</span>
+		</div>
 	</li>
 	<li class="ack-item">
 		<a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541536" target="_blank" rel="noopener">
