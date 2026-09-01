@@ -105,8 +105,15 @@ author_profile: true
 	<li class="ack-item">
 		<a href="https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025" target="_blank" rel="noopener">
 			<img src="{{ base_path }}/images/amazon.svg" alt="Amazon" loading="lazy" />
-			<span class="ack-name">Amazon Research Awards</span>
-			<span class="ack-dates">2026/11–2027/11</span>
+			<span class="ack-name">Amazon Research Award</span>
+			<span class="ack-dates">2025/11–2026/11</span>
+		</a>
+	</li>
+	<li class="ack-item">
+		<a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541536" target="_blank" rel="noopener">
+			<img src="{{ base_path }}/images/nsf.svg" alt="NSF" loading="lazy" />
+			<span class="ack-name">NSF CAREER Award</span>
+			<span class="ack-dates">2026/10–2031/09</span>
 		</a>
 	</li>
 </ul>
