@@ -44,7 +44,9 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 
 <h2 class="pub-subhead" style="border-left:none; padding-left:0; font-size:1.9em;">News</h2>
 <ul class="news-list">
-  <li class="news-item"><span class="news-date">2026 Service</span><span class="news-content">Area Chair: <strong>ICLR, ICML, NeurIPS</strong>. Action Editor: <strong>TMLR</strong>.</span></li>
+  <li class="news-item"><span class="news-date">2026 Service</span><span class="news-content">Area Chair: <strong>ICLR, ICML, COLM, NeurIPS</strong>. Action Editor: <strong>TMLR</strong>.</span></li>
+  <li class="news-item"><span class="news-date">2026.08</span><span class="news-content">One paper on Efficient LLM Search Agents (<a href="https://arxiv.org/abs/2512.16883">AdaSearch</a>) accepted to <strong>EMNLP 2026</strong>!</span></li>
+  <li class="news-item"><span class="news-date">2026.05</span><span class="news-content">Honored to receive the <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541536">NSF CAREER Award</a>.</span></li>
   <li class="news-item"><span class="news-date">2026.04</span><span class="news-content">Three papers on LLM Inference-Time Scaling (<a href="https://arxiv.org/abs/2602.13517">Deep Thinking Tokens</a>), Truthful RL Training for LLMs (<a href="https://arxiv.org/abs/2509.25760">TruthRL</a>) and LLMs for Folklore Lemma Generation (<a href="https://arxiv.org/abs/2602.02561">MathlibLemma</a>) accepted to <strong>ICML 2026</strong>!</span></li>
   <li class="news-item"><span class="news-date">2026.04</span><span class="news-content">One paper on LLM Alignment with Self-Synthetic Data (<a href="https://arxiv.org/abs/2510.06652">SAO</a>) accepted to <strong>ACL 2026</strong>!</span></li>
   <li class="news-item"><span class="news-date">2026.01</span><span class="news-content">One paper on Efficient VLM Reasoning (<a href="https://arxiv.org/abs/2505.24872">ProxyThinker</a>) accepted to <strong>ICLR 2026</strong>!</span></li>
@@ -57,7 +59,7 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 <h2 class="pub-subhead" style="border-left:none; padding-left:0; font-size:1.9em;">Education</h2>
 <dl class="edu-list">
   <dt>Ph.D. (2023) Computer Science, University of Illinois Urbana-Champaign</dt>
-  <dd><strong>Thesis:</strong> <a href="https://www.ideals.illinois.edu/items/129146">Efficient and Effective Learning of Text Representations</a> <span class="badge-accent badge">Award</span> <a href="https://kdd2024.kdd.org/awards/">ACM SIGKDD 2024 Dissertation Award</a></dd>
+  <dd><strong>Thesis:</strong> <a href="https://www.ideals.illinois.edu/items/129146">Efficient and Effective Learning of Text Representations</a> <span class="badge-accent badge">Award</span> <a href="https://kdd.org/awards/view/2024-sigkdd-dissertation-award-winners">ACM SIGKDD 2024 Dissertation Award</a></dd>
   <dt>M.S. (2019) Computer Science, University of Illinois Urbana-Champaign</dt>
   <dd><strong>Thesis:</strong> <a href="https://www.ideals.illinois.edu/items/111979">Weakly-Supervised Text Classification</a></dd>
   <dt>B.S. (2017) Computer Engineering, University of Illinois Urbana-Champaign</dt>
