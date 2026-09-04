@@ -18,8 +18,9 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 <p>My research is dedicated to developing more <strong>capable, efficient, and aligned</strong> Large Language Models (LLMs). I work across the entire LLM lifecycle, including training paradigms, data and inference efficiency, and the foundations of representations.</p>
 
 <h3 class="pub-subhead">Post-Training: Aligning and Enhancing LLMs</h3>
-<p class="section-desc">My recent work designs better post-training algorithms to improve reasoning, factuality, preference alignment, and model-based evaluation.</p>
+<p class="section-desc">My recent work designs better post-training algorithms to improve reasoning, truthfulness, preference alignment, and model-based evaluation.</p>
 <ul class="pub-list">
+  <li class="pub-item"><span class="badge">ICML 2026</span> <a href="https://weizhepei.com/">Wei</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2509.25760">TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning</a></strong></li>
   <li class="pub-item"><span class="badge">NeurIPS 2025</span> <a href="https://zhuxinyu.top/">Zhu</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2506.01347">The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning</a></strong></li>
   <li class="pub-item"><span class="badge">arXiv 2025</span> <a href="https://wlchen0206.github.io/">Chen</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2504.03846">Do LLM Evaluators Prefer Themselves for a Reason?</a></strong></li>
   <li class="pub-item"><span class="badge">ICLR 2025</span> <a href="https://weizhepei.com/">Wei</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2406.13629">InstructRAG: Instructing Retrieval-Augmented Generation via Self-Synthesized Rationales</a></strong></li>
@@ -27,8 +28,9 @@ I am a tenure-track Assistant Professor in the Department of Computer Science at
 </ul>
 
 <h3 class="pub-subhead">Efficiency: Overcoming Data and Inference Bottlenecks</h3>
-<p class="section-desc">My research addresses critical bottlenecks in data efficiency and inference efficiency, from synthetic data generation to faster decoding.</p>
+<p class="section-desc">My research addresses critical bottlenecks in data efficiency and inference efficiency, from synthetic data generation and reasoning-effort measurement to faster decoding.</p>
 <ul class="pub-list">
+  <li class="pub-item"><span class="badge">ICML 2026</span> <a href="https://wlchen0206.github.io/">Chen</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2602.13517">Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens</a></strong></li>
   <li class="pub-item"><span class="badge">ICML 2025</span> <a href="https://weizhepei.com/">Wei</a> <em>et al.</em> <strong><a href="https://arxiv.org/abs/2506.03700">AdaDecode: Accelerating LLM Decoding with Adaptive Layer Parallelism</a></strong></li>
   <li class="pub-item"><span class="badge">ICML 2023</span> Meng <em>et al.</em> <strong><a href="https://arxiv.org/abs/2211.03044">Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning</a></strong></li>
   <li class="pub-item"><span class="badge">NeurIPS 2022</span> Meng <em>et al.</em> <strong><a href="https://arxiv.org/abs/2202.04538">Generating Training Data with Language Models: Towards Zero-Shot Language Understanding</a></strong></li>
